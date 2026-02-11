@@ -1,8 +1,53 @@
 [
   {
     "store": {
-      "id": "5506",
+      "id": "店舗ID",
       "numericId": 1,
+      "url": "個店URL",
+      "name": "店名",
+      "address": "住所",
+      "region": "リージョンID",
+      "prefecture": "都道府県",
+      "city": "区市町村",
+      "name_en": "name_en",
+      "prefecture_en": "prefecture_en"
+    },
+    "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
+        "status": "予約状況"
+      },
+      {
+        "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Soccer",
+        "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
+        "status": "予約状況"
+      },
+      {
+        "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
+        "status": "予約状況"
+      },
+      {
+        "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Soccer",
+        "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
+        "status": "予約状況"
+      }
+    ],
+    "updatedAt": "2026-02-11T08:57:14.839Z"
+  },
+  {
+    "store": {
+      "id": "5506",
+      "numericId": 2,
       "url": "https://www.pub-hub.com/index.php/shop/detail/5",
       "name": "HUB新宿南口店 B1F",
       "address": "東京都 新宿区",
@@ -17,33 +62,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "55066",
-      "numericId": 2,
+      "numericId": 3,
       "url": "https://www.pub-hub.com/index.php/shop/detail/5",
       "name": "HUB新宿南口店 6F",
       "address": "東京都 新宿区",
@@ -58,33 +107,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5550",
-      "numericId": 3,
+      "numericId": 4,
       "url": "https://www.pub-hub.com/index.php/shop/detail/44",
       "name": "８２新宿三丁目店",
       "address": "東京都 新宿区",
@@ -99,33 +152,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5564",
-      "numericId": 4,
+      "numericId": 5,
       "url": "https://www.pub-hub.com/index.php/shop/detail/58",
       "name": "８２新宿西口大ガード店",
       "address": "東京都 新宿区",
@@ -140,33 +197,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5603",
-      "numericId": 5,
+      "numericId": 6,
       "url": "https://www.pub-hub.com/index.php/shop/detail/88",
       "name": "HUB新宿区役所通り店",
       "address": "東京都 新宿区",
@@ -181,33 +242,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5606",
-      "numericId": 6,
+      "numericId": 7,
       "url": "https://www.pub-hub.com/index.php/shop/detail/32",
       "name": "HUB新宿西口大ガード店",
       "address": "東京都 新宿区",
@@ -222,33 +287,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5621",
-      "numericId": 7,
+      "numericId": 8,
       "url": "https://www.pub-hub.com/index.php/shop/detail/104",
       "name": "HUB新宿靖国通り店",
       "address": "東京都 新宿区",
@@ -263,33 +332,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5625",
-      "numericId": 8,
+      "numericId": 9,
       "url": "https://www.pub-hub.com/index.php/shop/detail/112",
       "name": "HUB西武新宿駅前店",
       "address": "東京都 新宿区",
@@ -304,33 +377,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5507",
-      "numericId": 9,
+      "numericId": 10,
       "url": "https://www.pub-hub.com/index.php/shop/detail/6",
       "name": "HUB浅草店",
       "address": "東京都 台東区",
@@ -345,33 +422,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5531",
-      "numericId": 10,
+      "numericId": 11,
       "url": "https://www.pub-hub.com/index.php/shop/detail/25",
       "name": "HUB上野しのばず通り店",
       "address": "東京都 台東区",
@@ -386,33 +467,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5552",
-      "numericId": 11,
+      "numericId": 12,
       "url": "https://www.pub-hub.com/index.php/shop/detail/46",
       "name": "HUB北千住店",
       "address": "東京都 足立区",
@@ -427,33 +512,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5563",
-      "numericId": 12,
+      "numericId": 13,
       "url": "https://www.pub-hub.com/index.php/shop/detail/57",
       "name": "HUB八重洲店",
       "address": "東京都 中央区",
@@ -468,33 +557,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5602",
-      "numericId": 13,
+      "numericId": 14,
       "url": "https://www.pub-hub.com/index.php/shop/detail/86",
       "name": "HUB上野昭和通り店",
       "address": "東京都 台東区",
@@ -509,33 +602,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5623",
-      "numericId": 14,
+      "numericId": 15,
       "url": "https://www.pub-hub.com/index.php/shop/detail/110",
       "name": "HUB上野店",
       "address": "東京都 台東区",
@@ -550,33 +647,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5513",
-      "numericId": 15,
+      "numericId": 16,
       "url": "https://www.pub-hub.com/index.php/shop/detail/10",
       "name": "HUB銀座コリドー店",
       "address": "東京都 中央区",
@@ -591,33 +692,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5520",
-      "numericId": 16,
+      "numericId": 17,
       "url": "https://www.pub-hub.com/index.php/shop/detail/15",
       "name": "HUB日比谷店",
       "address": "東京都 千代田区",
@@ -632,33 +737,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5547",
-      "numericId": 17,
+      "numericId": 18,
       "url": "https://www.pub-hub.com/index.php/shop/detail/41",
       "name": "８２三田店",
       "address": "東京都 港区",
@@ -673,33 +782,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5549",
-      "numericId": 18,
+      "numericId": 19,
       "url": "https://www.pub-hub.com/index.php/shop/detail/43",
       "name": "８２浜松町店",
       "address": "東京都 港区",
@@ -714,33 +827,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5577",
-      "numericId": 19,
+      "numericId": 20,
       "url": "https://www.pub-hub.com/index.php/shop/detail/71",
       "name": "HUB新橋店",
       "address": "東京都 港区",
@@ -755,33 +872,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5613",
-      "numericId": 20,
+      "numericId": 21,
       "url": "https://www.pub-hub.com/index.php/shop/detail/100",
       "name": "HUB新橋銀座口店",
       "address": "東京都 港区",
@@ -796,33 +917,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5630",
-      "numericId": 21,
+      "numericId": 22,
       "url": "https://www.pub-hub.com/index.php/shop/detail/117",
       "name": "HUB浜松町店",
       "address": "東京都 港区",
@@ -837,33 +962,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5502",
-      "numericId": 22,
+      "numericId": 23,
       "url": "https://www.pub-hub.com/index.php/shop/detail/2",
       "name": "HUB渋谷店",
       "address": "東京都 渋谷区",
@@ -878,33 +1007,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5544",
-      "numericId": 23,
+      "numericId": 24,
       "url": "https://www.pub-hub.com/index.php/shop/detail/38",
       "name": "８２赤坂店",
       "address": "東京都 港区",
@@ -919,33 +1052,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5572",
-      "numericId": 24,
+      "numericId": 25,
       "url": "https://www.pub-hub.com/index.php/shop/detail/66",
       "name": "８２渋谷宮益坂店",
       "address": "東京都 渋谷区",
@@ -960,33 +1097,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5609",
-      "numericId": 25,
+      "numericId": 26,
       "url": "https://www.pub-hub.com/index.php/shop/detail/96",
       "name": "HUB渋谷道玄坂店",
       "address": "東京都 渋谷区",
@@ -1001,33 +1142,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5622",
-      "numericId": 26,
+      "numericId": 27,
       "url": "https://www.pub-hub.com/index.php/shop/detail/109",
       "name": "HUB渋谷2号店",
       "address": "東京都 渋谷区",
@@ -1042,33 +1187,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5633",
-      "numericId": 27,
+      "numericId": 28,
       "url": "https://www.pub-hub.com/index.php/shop/detail/123",
       "name": "HUB渋谷3号店",
       "address": "東京都 渋谷区",
@@ -1083,33 +1232,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5521",
-      "numericId": 28,
+      "numericId": 29,
       "url": "https://www.pub-hub.com/index.php/shop/detail/16",
       "name": "HUB東京オペラシティ店",
       "address": "東京都 新宿区",
@@ -1124,33 +1277,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5548",
-      "numericId": 29,
+      "numericId": 30,
       "url": "https://www.pub-hub.com/index.php/shop/detail/42",
       "name": "HUB秋葉原店",
       "address": "東京都 千代田区",
@@ -1165,33 +1322,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "55488",
-      "numericId": 30,
+      "numericId": 31,
       "url": "https://www.pub-hub.com/index.php/shop/detail/42",
       "name": "HUB秋葉原店（コラボ営業時間）",
       "address": "東京都 千代田区",
@@ -1206,33 +1367,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5553",
-      "numericId": 31,
+      "numericId": 32,
       "url": "https://www.pub-hub.com/index.php/shop/detail/47",
       "name": "８２AKIBA TOLIM店",
       "address": "東京都 千代田区",
@@ -1247,33 +1412,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5567",
-      "numericId": 32,
+      "numericId": 33,
       "url": "https://www.pub-hub.com/index.php/shop/detail/61",
       "name": "HUBロッテシティホテル錦糸町店",
       "address": "東京都 墨田区",
@@ -1288,33 +1457,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5568",
-      "numericId": 33,
+      "numericId": 34,
       "url": "https://www.pub-hub.com/index.php/shop/detail/62",
       "name": "８２ロッテシティホテル錦糸町店",
       "address": "東京都 墨田区",
@@ -1329,33 +1502,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5624",
-      "numericId": 34,
+      "numericId": 35,
       "url": "https://www.pub-hub.com/index.php/shop/detail/111",
       "name": "HUBチョムチョム秋葉原店",
       "address": "東京都 千代田区",
@@ -1370,33 +1547,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5539",
-      "numericId": 35,
+      "numericId": 36,
       "url": "https://www.pub-hub.com/index.php/shop/detail/33",
       "name": "８２神田店",
       "address": "東京都 千代田区",
@@ -1411,33 +1592,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5546",
-      "numericId": 36,
+      "numericId": 37,
       "url": "https://www.pub-hub.com/index.php/shop/detail/40",
       "name": "HUB東京ドームシティ ラクーア店",
       "address": "東京都 文京区",
@@ -1452,33 +1637,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5559",
-      "numericId": 37,
+      "numericId": 38,
       "url": "https://www.pub-hub.com/index.php/shop/detail/53",
       "name": "８２築地店",
       "address": "東京都 中央区",
@@ -1493,33 +1682,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5566",
-      "numericId": 38,
+      "numericId": 39,
       "url": "https://www.pub-hub.com/index.php/shop/detail/60",
       "name": "８２東銀座店",
       "address": "東京都 中央区",
@@ -1534,33 +1727,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5583",
-      "numericId": 39,
+      "numericId": 40,
       "url": "https://www.pub-hub.com/index.php/shop/detail/77",
       "name": "HUB神田東口店",
       "address": "東京都 千代田区",
@@ -1575,33 +1772,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5620",
-      "numericId": 40,
+      "numericId": 41,
       "url": "https://www.pub-hub.com/index.php/shop/detail/108",
       "name": "HUB四谷しんみち通り店",
       "address": "東京都 新宿区",
@@ -1616,33 +1817,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5628",
-      "numericId": 41,
+      "numericId": 42,
       "url": "https://www.pub-hub.com/index.php/shop/detail/115",
       "name": "HUB飯田橋東口店",
       "address": "東京都 千代田区",
@@ -1657,33 +1862,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5518",
-      "numericId": 42,
+      "numericId": 43,
       "url": "https://www.pub-hub.com/index.php/shop/detail/13",
       "name": "HUB池袋東口店",
       "address": "東京都 豊島区",
@@ -1698,33 +1907,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5529",
-      "numericId": 43,
+      "numericId": 44,
       "url": "https://www.pub-hub.com/index.php/shop/detail/23",
       "name": "HUB池袋西口公園店",
       "address": "東京都 豊島区",
@@ -1739,33 +1952,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5532",
-      "numericId": 44,
+      "numericId": 45,
       "url": "https://www.pub-hub.com/index.php/shop/detail/26",
       "name": "HUB池袋東口店ANNEX",
       "address": "東京都 豊島区",
@@ -1780,33 +1997,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5540",
-      "numericId": 45,
+      "numericId": 46,
       "url": "https://www.pub-hub.com/index.php/shop/detail/34",
       "name": "HUB池袋西口店",
       "address": "東京都 豊島区",
@@ -1821,33 +2042,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5578",
-      "numericId": 46,
+      "numericId": 47,
       "url": "https://www.pub-hub.com/index.php/shop/detail/93",
       "name": "HUB池袋サンシャイン通り店",
       "address": "東京都 豊島区",
@@ -1862,33 +2087,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5632",
-      "numericId": 47,
+      "numericId": 48,
       "url": "https://www.pub-hub.com/index.php/shop/detail/122",
       "name": "HUB+８２池袋ＷＡＣＣＡ店",
       "address": "東京都 豊島区",
@@ -1903,33 +2132,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5605",
-      "numericId": 48,
+      "numericId": 49,
       "url": "https://www.pub-hub.com/index.php/shop/detail/90",
       "name": "HUB渋谷センター街店",
       "address": "東京都 渋谷区",
@@ -1944,33 +2177,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5543",
-      "numericId": 49,
+      "numericId": 50,
       "url": "https://www.pub-hub.com/index.php/shop/detail/37",
       "name": "HUB大宮東口店",
       "address": "埼玉県 さいたま市",
@@ -1985,33 +2222,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5601",
-      "numericId": 50,
+      "numericId": 51,
       "url": "https://www.pub-hub.com/index.php/shop/detail/85",
       "name": "HUB仙台名掛丁店",
       "address": "宮城県 仙台市",
@@ -2026,33 +2267,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5604",
-      "numericId": 51,
+      "numericId": 52,
       "url": "https://www.pub-hub.com/index.php/shop/detail/89",
       "name": "HUB仙台一番町四丁目店",
       "address": "宮城県 仙台市",
@@ -2067,33 +2312,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5617",
-      "numericId": 52,
+      "numericId": 53,
       "url": "https://www.pub-hub.com/index.php/shop/detail/105",
       "name": "HUB川口店",
       "address": "埼玉県 川口市",
@@ -2108,33 +2357,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5643",
-      "numericId": 53,
+      "numericId": 54,
       "url": "https://www.pub-hub.com/index.php/shop/detail/134",
       "name": "HUB Echigo Beer PUB CoCoLo新潟店",
       "address": "新潟県 新潟市",
@@ -2149,33 +2402,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5648",
-      "numericId": 54,
+      "numericId": 55,
       "url": "https://www.pub-hub.com/index.php/shop/detail/140",
       "name": "HUB富山MAROOT店",
       "address": "富山県 富山市",
@@ -2190,33 +2447,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5557",
-      "numericId": 55,
+      "numericId": 56,
       "url": "https://www.pub-hub.com/index.php/shop/detail/51",
       "name": "HUB慶應日吉店",
       "address": "神奈川県 横浜市",
@@ -2231,33 +2492,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5558",
-      "numericId": 56,
+      "numericId": 57,
       "url": "https://www.pub-hub.com/index.php/shop/detail/52",
       "name": "HUB町田店",
       "address": "東京都 町田市",
@@ -2272,33 +2537,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5576",
-      "numericId": 57,
+      "numericId": 58,
       "url": "https://www.pub-hub.com/index.php/shop/detail/70",
       "name": "HUB蒲田西口店",
       "address": "東京都 大田区",
@@ -2313,33 +2582,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5585",
-      "numericId": 58,
+      "numericId": 59,
       "url": "https://www.pub-hub.com/index.php/shop/detail/79",
       "name": "HUB相模大野店",
       "address": "神奈川県 相模原市",
@@ -2354,33 +2627,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5608",
-      "numericId": 59,
+      "numericId": 60,
       "url": "https://www.pub-hub.com/index.php/shop/detail/95",
       "name": "HUB新横浜店",
       "address": "神奈川県 横浜市",
@@ -2395,33 +2672,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5640",
-      "numericId": 60,
+      "numericId": 61,
       "url": "https://www.pub-hub.com/index.php/shop/detail/131",
       "name": "HUB羽田空港第2ターミナル店",
       "address": "東京都 大田区",
@@ -2436,33 +2717,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5522",
-      "numericId": 61,
+      "numericId": 62,
       "url": "https://www.pub-hub.com/index.php/shop/detail/17",
       "name": "HUB高田馬場店",
       "address": "東京都 新宿区",
@@ -2477,33 +2762,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5528",
-      "numericId": 62,
+      "numericId": 63,
       "url": "https://www.pub-hub.com/index.php/shop/detail/22",
       "name": "HUB吉祥寺南口店",
       "address": "東京都 武蔵野市",
@@ -2518,33 +2807,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5530",
-      "numericId": 63,
+      "numericId": 64,
       "url": "https://www.pub-hub.com/index.php/shop/detail/24",
       "name": "HUB八王子店",
       "address": "東京都 八王子市",
@@ -2559,33 +2852,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5535",
-      "numericId": 64,
+      "numericId": 65,
       "url": "https://www.pub-hub.com/index.php/shop/detail/29",
       "name": "HUB所沢プロペ通り店",
       "address": "埼玉県 所沢市",
@@ -2600,33 +2897,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5614",
-      "numericId": 65,
+      "numericId": 66,
       "url": "https://www.pub-hub.com/index.php/shop/detail/101",
       "name": "HUB高田馬場駅西店",
       "address": "東京都 新宿区",
@@ -2641,33 +2942,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5545",
-      "numericId": 66,
+      "numericId": 67,
       "url": "https://www.pub-hub.com/index.php/shop/detail/39",
       "name": "８２関内店",
       "address": "神奈川県 横浜市",
@@ -2682,33 +2987,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5560",
-      "numericId": 67,
+      "numericId": 68,
       "url": "https://www.pub-hub.com/index.php/shop/detail/54",
       "name": "HUB横浜鶴屋町店",
       "address": "神奈川県 横浜市",
@@ -2723,33 +3032,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5562",
-      "numericId": 68,
+      "numericId": 69,
       "url": "https://www.pub-hub.com/index.php/shop/detail/56",
       "name": "HUB横浜西口店",
       "address": "神奈川県 横浜市",
@@ -2764,33 +3077,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5579",
-      "numericId": 69,
+      "numericId": 70,
       "url": "https://www.pub-hub.com/index.php/shop/detail/73",
       "name": "８２横浜西口店",
       "address": "神奈川県 横浜市",
@@ -2805,33 +3122,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5616",
-      "numericId": 70,
+      "numericId": 71,
       "url": "https://www.pub-hub.com/index.php/shop/detail/103",
       "name": "HUB藤沢店",
       "address": "神奈川県 藤沢市",
@@ -2846,33 +3167,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5626",
-      "numericId": 71,
+      "numericId": 72,
       "url": "https://www.pub-hub.com/index.php/shop/detail/113",
       "name": "HUBリッチモンドホテル横浜駅前店",
       "address": "神奈川県 横浜市",
@@ -2887,33 +3212,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5514",
-      "numericId": 72,
+      "numericId": 73,
       "url": "https://www.pub-hub.com/index.php/shop/detail/11",
       "name": "HUB新浦安店",
       "address": "千葉県 浦安市",
@@ -2928,33 +3257,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5534",
-      "numericId": 73,
+      "numericId": 74,
       "url": "https://www.pub-hub.com/index.php/shop/detail/28",
       "name": "HUB柏西口店",
       "address": "千葉県 柏市",
@@ -2969,33 +3302,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5565",
-      "numericId": 74,
+      "numericId": 75,
       "url": "https://www.pub-hub.com/index.php/shop/detail/59",
       "name": "HUB千葉富士見店",
       "address": "千葉県 千葉市",
@@ -3010,33 +3347,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5581",
-      "numericId": 75,
+      "numericId": 76,
       "url": "https://www.pub-hub.com/index.php/shop/detail/75",
       "name": "HUB船橋店",
       "address": "千葉県 船橋市",
@@ -3051,33 +3392,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5584",
-      "numericId": 76,
+      "numericId": 77,
       "url": "https://www.pub-hub.com/index.php/shop/detail/78",
       "name": "HUB海浜幕張店",
       "address": "千葉県 千葉市",
@@ -3092,33 +3437,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5612",
-      "numericId": 77,
+      "numericId": 78,
       "url": "https://www.pub-hub.com/index.php/shop/detail/99",
       "name": "HUB津田沼店",
       "address": "千葉県 船橋市",
@@ -3133,33 +3482,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5645",
-      "numericId": 78,
+      "numericId": 79,
       "url": "https://www.pub-hub.com/index.php/shop/detail/136",
       "name": "HUB JEF UNITED PUB ペリエ千葉エキナカ店",
       "address": "千葉県 千葉市",
@@ -3174,33 +3527,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5501",
-      "numericId": 79,
+      "numericId": 80,
       "url": "https://www.pub-hub.com/index.php/shop/detail/1",
       "name": "HUB六本木店",
       "address": "東京都 港区",
@@ -3215,33 +3572,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5537",
-      "numericId": 80,
+      "numericId": 81,
       "url": "https://www.pub-hub.com/index.php/shop/detail/31",
       "name": "HUB恵比寿店",
       "address": "東京都 渋谷区",
@@ -3256,33 +3617,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5541",
-      "numericId": 81,
+      "numericId": 82,
       "url": "https://www.pub-hub.com/index.php/shop/detail/35",
       "name": "８２品川店",
       "address": "東京都 港区",
@@ -3297,33 +3662,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5570",
-      "numericId": 82,
+      "numericId": 83,
       "url": "https://www.pub-hub.com/index.php/shop/detail/64",
       "name": "HUB代々木西口店",
       "address": "東京都 渋谷区",
@@ -3338,33 +3707,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5571",
-      "numericId": 83,
+      "numericId": 84,
       "url": "https://www.pub-hub.com/index.php/shop/detail/65",
       "name": "HUB外苑前店",
       "address": "東京都 港区",
@@ -3379,33 +3752,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5573",
-      "numericId": 84,
+      "numericId": 85,
       "url": "https://www.pub-hub.com/index.php/shop/detail/67",
       "name": "８２五反田西口店",
       "address": "東京都 品川区",
@@ -3420,33 +3797,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5580",
-      "numericId": 85,
+      "numericId": 86,
       "url": "https://www.pub-hub.com/index.php/shop/detail/74",
       "name": "HUB神谷町店",
       "address": "東京都 港区",
@@ -3461,33 +3842,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5618",
-      "numericId": 86,
+      "numericId": 87,
       "url": "https://www.pub-hub.com/index.php/shop/detail/106",
       "name": "HUB立川南口店",
       "address": "東京都 立川市",
@@ -3502,33 +3887,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5639",
-      "numericId": 87,
+      "numericId": 88,
       "url": "https://www.pub-hub.com/index.php/shop/detail/130",
       "name": "HUB桜木町クロスゲート店",
       "address": "神奈川県 横浜市",
@@ -3543,33 +3932,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5533",
-      "numericId": 88,
+      "numericId": 89,
       "url": "https://www.pub-hub.com/index.php/shop/detail/27",
       "name": "HUB川崎店",
       "address": "神奈川県 川崎市",
@@ -3584,33 +3977,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5505",
-      "numericId": 89,
+      "numericId": 90,
       "url": "https://www.pub-hub.com/index.php/shop/detail/4",
       "name": "HUB三宮ムーンライトビル店",
       "address": "兵庫県 神戸市",
@@ -3625,33 +4022,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5525",
-      "numericId": 90,
+      "numericId": 91,
       "url": "https://www.pub-hub.com/index.php/shop/detail/20",
       "name": "HUBなんば戎橋店",
       "address": "大阪府 大阪市",
@@ -3666,33 +4067,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5556",
-      "numericId": 91,
+      "numericId": 92,
       "url": "https://www.pub-hub.com/index.php/shop/detail/50",
       "name": "HUB心斎橋店",
       "address": "大阪府 大阪市",
@@ -3707,33 +4112,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5575",
-      "numericId": 92,
+      "numericId": 93,
       "url": "https://www.pub-hub.com/index.php/shop/detail/69",
       "name": "HUBあべのキューズモール店",
       "address": "大阪府 大阪市",
@@ -3748,33 +4157,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5582",
-      "numericId": 93,
+      "numericId": 94,
       "url": "https://www.pub-hub.com/index.php/shop/detail/76",
       "name": "HUB中之島フェスティバルプラザ店",
       "address": "大阪府 大阪市",
@@ -3789,33 +4202,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5647",
-      "numericId": 94,
+      "numericId": 95,
       "url": "https://www.pub-hub.com/index.php/shop/detail/137",
       "name": "HUBアミュプラザみやざき店",
       "address": "宮崎県 宮崎市",
@@ -3830,33 +4247,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5555",
-      "numericId": 95,
+      "numericId": 96,
       "url": "https://www.pub-hub.com/index.php/shop/detail/49",
       "name": "HUB梅田茶屋町店",
       "address": "大阪府 大阪市",
@@ -3871,33 +4292,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5588",
-      "numericId": 96,
+      "numericId": 97,
       "url": "https://www.pub-hub.com/index.php/shop/detail/82",
       "name": "HUB京阪京橋店",
       "address": "大阪府 大阪市",
@@ -3912,33 +4337,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5607",
-      "numericId": 97,
+      "numericId": 98,
       "url": "https://www.pub-hub.com/index.php/shop/detail/94",
       "name": "HUB梅田茶屋町アプローズ店",
       "address": "大阪府 大阪市",
@@ -3953,33 +4382,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5615",
-      "numericId": 98,
+      "numericId": 99,
       "url": "https://www.pub-hub.com/index.php/shop/detail/102",
       "name": "HUB東梅田店",
       "address": "大阪府 大阪市",
@@ -3994,33 +4427,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5635",
-      "numericId": 99,
+      "numericId": 100,
       "url": "https://www.pub-hub.com/index.php/shop/detail/126",
       "name": "HUB梅田東通り店",
       "address": "大阪府 大阪市",
@@ -4035,33 +4472,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5636",
-      "numericId": 100,
+      "numericId": 101,
       "url": "https://www.pub-hub.com/index.php/shop/detail/125",
       "name": "HUB LINKS UMEDA店",
       "address": "大阪府 大阪市",
@@ -4076,33 +4517,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5644",
-      "numericId": 101,
+      "numericId": 102,
       "url": "https://www.pub-hub.com/index.php/shop/detail/135",
       "name": "HUBエキマルシェ大阪ウメスト店",
       "address": "大阪府 大阪市",
@@ -4117,33 +4562,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5536",
-      "numericId": 102,
+      "numericId": 103,
       "url": "https://www.pub-hub.com/index.php/shop/detail/30",
       "name": "HUB四条烏丸店",
       "address": "京都府 京都市",
@@ -4158,33 +4607,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5542",
-      "numericId": 103,
+      "numericId": 104,
       "url": "https://www.pub-hub.com/index.php/shop/detail/36",
       "name": "HUB名古屋栄錦通り店",
       "address": "愛知県 名古屋市",
@@ -4199,33 +4652,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5561",
-      "numericId": 104,
+      "numericId": 105,
       "url": "https://www.pub-hub.com/index.php/shop/detail/55",
       "name": "HUB名駅店",
       "address": "愛知県 名古屋市",
@@ -4240,33 +4697,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5589",
-      "numericId": 105,
+      "numericId": 106,
       "url": "https://www.pub-hub.com/index.php/shop/detail/84",
       "name": "HUB京都ヨドバシ店",
       "address": "京都府 京都市",
@@ -4281,33 +4742,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5610",
-      "numericId": 106,
+      "numericId": 107,
       "url": "https://www.pub-hub.com/index.php/shop/detail/97",
       "name": "HUB名駅四丁目店",
       "address": "愛知県 名古屋市",
@@ -4322,33 +4787,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5619",
-      "numericId": 107,
+      "numericId": 108,
       "url": "https://www.pub-hub.com/index.php/shop/detail/107",
       "name": "HUB三条木屋町店",
       "address": "京都府 京都市",
@@ -4363,33 +4832,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5638",
-      "numericId": 108,
+      "numericId": 109,
       "url": "https://www.pub-hub.com/index.php/shop/detail/128",
       "name": "HUB GRAMPUS PUB MIRAI TOWER店",
       "address": "愛知県 名古屋市",
@@ -4404,33 +4877,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5641",
-      "numericId": 109,
+      "numericId": 110,
       "url": "https://www.pub-hub.com/index.php/shop/detail/132",
       "name": "HUB COCONO SUSUKINO店",
       "address": "北海道 札幌市",
@@ -4445,33 +4922,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5631",
-      "numericId": 110,
+      "numericId": 111,
       "url": "https://www.pub-hub.com/index.php/shop/detail/120",
       "name": "HUBみずほPayPayドーム福岡店",
       "address": "福岡県 福岡市",
@@ -4486,33 +4967,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5637",
-      "numericId": 111,
+      "numericId": 112,
       "url": "https://www.pub-hub.com/index.php/shop/detail/125",
       "name": "HUB福岡大名店",
       "address": "福岡県 福岡市",
@@ -4527,33 +5012,37 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   },
   {
     "store": {
       "id": "5642",
-      "numericId": 112,
+      "numericId": 113,
       "url": "https://www.pub-hub.com/index.php/shop/detail/133",
       "name": "HUB博多筑紫口デイトスアネックス店",
       "address": "福岡県 福岡市",
@@ -4568,27 +5057,31 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
+        "matchUp_en": "---",
         "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
+        "matchUp_en": "---",
         "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:38:51.482Z"
+    "updatedAt": "2026-02-11T08:57:14.839Z"
   }
 ]
