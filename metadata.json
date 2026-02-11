@@ -1,0 +1,5 @@
+{
+  "name": "Sports Hub: Real-time Reservation Dashboard",
+  "description": "A high-performance dashboard for tracking sports broadcast reservation status across multiple store locations, featuring real-time data sync via GitHub and Google Sheets.",
+  "requestFramePermissions": []
+}

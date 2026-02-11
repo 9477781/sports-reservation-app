@@ -1,0 +1,125 @@
+[
+  {
+    "store": {
+      "id": "5506",
+      "numericId": 1,
+      "name": "HUB新宿南口店",
+      "name_en": "HUB Shinjuku minamiguchi",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/6",
+      "address": "東京都 新宿区 新宿3-36-15",
+      "region": "関東",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo",
+      "city": "新宿区"
+    },
+    "events": [
+      {
+        "date": "3月1日(日)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS アメリカ代表",
+        "status": "available"
+      },
+      {
+        "date": "3月3日(火)",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 VS 台湾代表",
+        "status": "few"
+      },
+      {
+        "date": "3月5日(木)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS 韓国代表",
+        "status": "few"
+      },
+      {
+        "date": "2026/03/10",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 vs オーストラリア代表",
+        "status": "full"
+      }
+    ],
+    "updatedAt": "2026-02-11T14:30:00.000Z"
+  },
+  {
+    "store": {
+      "id": "55066",
+      "numericId": 2,
+      "name": "HUB新宿西口店",
+      "name_en": "HUB Shinjuku west",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/7",
+      "address": "東京都 新宿区 西新宿1-1-1",
+      "region": "関東",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo",
+      "city": "新宿区"
+    },
+    "events": [
+      {
+        "date": "3月1日(日)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS アメリカ代表",
+        "status": "few"
+      },
+      {
+        "date": "3月3日(火)",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 VS 台湾代表",
+        "status": "none"
+      },
+      {
+        "date": "3月5日(木)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS 韓国代表",
+        "status": "none"
+      },
+      {
+        "date": "2026/03/10",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 vs オーストラリア代表",
+        "status": "none"
+      }
+    ],
+    "updatedAt": "2026-02-11T14:30:00.000Z"
+  },
+  {
+    "store": {
+      "id": "5550",
+      "numericId": 3,
+      "name": "82 新宿三丁目店",
+      "name_en": "82 Shinjuku-Sanchome",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/8",
+      "address": "東京都 新宿区 新宿3-1-1",
+      "region": "関東",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo",
+      "city": "新宿区"
+    },
+    "events": [
+      {
+        "date": "3月1日(日)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS アメリカ代表",
+        "status": "none"
+      },
+      {
+        "date": "3月3日(火)",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 VS 台湾代表",
+        "status": "available"
+      },
+      {
+        "date": "3月5日(木)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表 VS 韓国代表",
+        "status": "full"
+      },
+      {
+        "date": "2026/03/10",
+        "eventName": "Soccer",
+        "matchUp": "日本代表 vs オーストラリア代表",
+        "status": "full"
+      }
+    ],
+    "updatedAt": "2026-02-11T14:30:00.000Z"
+  }
+]

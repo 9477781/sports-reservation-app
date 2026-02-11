@@ -1,0 +1,151 @@
+/**
+ * ==============================================================================
+ * スポーツ放映予約状況 リアルタイム反映システム - GAS 連携スクリプト
+ * ==============================================================================
+ * 
+ * 【設定手順】
+ * 1. スプレッドシートの「拡張機能」>「Apps Script」を開き、このコードを貼り付け。
+ * 2. プロジェクトの設定（歯車アイコン）>「スクリプトプロパティ」に以下を追加。
+ *    - GITHUB_TOKEN : GitHubのPersonal Access Token
+ *    - GITHUB_REPO  : あなたのリポジトリ名 (例: user/my-sports-app)
+ * 3. スプレッドシートのシート名を「予約状況」に変更。
+ * 4. 実行トリガーを「exportSportsStatusToJson」に設定（ボタンへの割り当て、または時間指定）。
+ */
+
+function exportSportsStatusToJson() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  const sheet = ss.getSheetByName("予約状況"); 
+  if (!sheet) {
+    throw new Error("「予約状況」という名前のシートが見つかりません。");
+  }
+
+  const fullData = sheet.getDataRange().getValues();
+
+  // --- ヘッダー情報の抽出 (1行目〜3行目) ---
+  // L列(インデックス11)以降が日程・イベントデータ
+  const dateRow = fullData[0].slice(11);      // 1行目: 日付 (2/11(水)等)
+  const eventNameRow = fullData[1].slice(11);  // 2行目: イベント名 (Sports Event等)
+  const matchUpRow = fullData[2].slice(11);    // 3行目: 対戦カード (日本代表 vs ...)
+
+  // --- 店舗データとステータスの抽出 (4行目以降) ---
+  const result = [];
+  const updatedAt = new Date().toISOString();
+
+  // 4行目（インデックス3）からループ開始
+  for (let i = 3; i < fullData.length; i++) {
+    const row = fullData[i];
+    const storeId = row[1]; // B列: 店舗ID
+    if (!storeId) continue; // IDが空の行はスキップ
+
+    // 基本情報 (B列〜H列)
+    const storeInfo = {
+      id: String(storeId),
+      numericId: i - 2,
+      name: String(row[2]),       // C列: 店名
+      name_en: String(row[8] || ""), // I列あたりに英語名があると想定（適宜修正）
+      url: String(row[3]),        // D列: 個店URL
+      address: String(row[4]),    // E列: 住所
+      region: String(row[5]),     // F列: リージョン
+      prefecture: String(row[6]),  // G列: 都道府県
+      prefecture_en: "Tokyo",     // 固定またはデータから取得
+      city: String(row[7]),       // H列: 市区町村
+    };
+
+    // 日程ごとの詳細情報
+    const events = [];
+    const statusData = row.slice(11); // L列以降のステータス記号
+
+    for (let j = 0; j < dateRow.length; j++) {
+      if (!dateRow[j]) continue; // 日付列が空なら終了
+
+      events.push({
+        date: String(dateRow[j]),
+        eventName: String(eventNameRow[j] || "OPEN"),
+        matchUp: String(matchUpRow[j] || "---"),
+        status: convertStatus(statusData[j]) // 記号を英字キーへ
+      });
+    }
+
+    result.push({
+      store: storeInfo,
+      events: events,
+      updatedAt: updatedAt
+    });
+  }
+
+  // JSON化してGitHubへ送信
+  const jsonContent = JSON.stringify(result, null, 2);
+  pushToGitHub(jsonContent);
+}
+
+/**
+ * シート上の記号をWebアプリの ReservationStatus 型に変換
+ */
+function convertStatus(val) {
+  const s = String(val).trim();
+  if (s === "〇" || s === "available") return "available";
+  if (s === "△" || s === "few")       return "few";
+  if (s === "×" || s === "full")      return "full";
+  if (s === "－" || s === "none")      return "none";
+  return "none"; // デフォルト
+}
+
+/**
+ * GitHub API (REST) を使用してファイルを更新
+ */
+function pushToGitHub(content) {
+  const props = PropertiesService.getScriptProperties();
+  const token = props.getProperty('GITHUB_TOKEN');
+  const repo = props.getProperty('GITHUB_REPO'); 
+  const path = "public/data/status.json"; // 反映先のファイルパス
+  const branch = "main"; // 対象ブランチ
+
+  if (!token || !repo) {
+    throw new Error("スクリプトプロパティ 'GITHUB_TOKEN' または 'GITHUB_REPO' が設定されていません。");
+  }
+
+  const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+  
+  // 1. 既存ファイルのSHAを取得（更新に必須）
+  const getParams = {
+    method: "get",
+    headers: {
+      "Authorization": `token ${token}`,
+      "Accept": "application/vnd.github.v3+json"
+    },
+    muteHttpExceptions: true
+  };
+  
+  const getResponse = UrlFetchApp.fetch(url, getParams);
+  let sha = "";
+  if (getResponse.getResponseCode() === 200) {
+    sha = JSON.parse(getResponse.getContentText()).sha;
+  }
+
+  // 2. PUTリクエストでファイルを更新
+  const payload = {
+    message: "Update sports reservation status from Google Sheets",
+    content: Utilities.base64Encode(content, Utilities.Charset.UTF_8),
+    branch: branch
+  };
+  if (sha) payload.sha = sha;
+
+  const putParams = {
+    method: "put",
+    headers: {
+      "Authorization": `token ${token}`,
+      "Content-Type": "application/json"
+    },
+    payload: JSON.stringify(payload),
+    muteHttpExceptions: true
+  };
+
+  const putResponse = UrlFetchApp.fetch(url, putParams);
+  
+  if (putResponse.getResponseCode() === 200 || putResponse.getResponseCode() === 201) {
+    Logger.log("GitHubへの書き出しに成功しました！");
+  } else {
+    Logger.log("GitHub APIエラー: " + putResponse.getContentText());
+    throw new Error("GitHubへのデータ反映に失敗しました。");
+  }
+}
