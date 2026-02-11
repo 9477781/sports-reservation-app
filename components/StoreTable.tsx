@@ -5,17 +5,18 @@ import { STATUS_MAP } from '../constants';
 
 interface StoreTableProps {
   data: StoreData[];
+  language: 'ja' | 'en';
 }
 
-const StoreTable: React.FC<StoreTableProps> = ({ data }) => {
+const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
   if (data.length === 0) return null;
 
   // Use the event data from the first store to build the headers
   const eventHeaders = data[0].events;
 
   const getDayColorClass = (dateStr: string) => {
-    if (dateStr.includes('(土)')) return 'bg-[#2563eb]'; // Blue for Sat
-    if (dateStr.includes('(日)') || dateStr.includes('(祝)')) return 'bg-[#e11d48]'; // Red for Sun/Holiday
+    if (dateStr.includes('(土)') || dateStr.includes('Sat')) return 'bg-[#2563eb]'; // Blue for Sat
+    if (dateStr.includes('(日)') || dateStr.includes('Sun') || dateStr.includes('(祝)')) return 'bg-[#e11d48]'; // Red for Sun/Holiday
     return 'bg-[#f97316]'; // Orange default
   };
 
@@ -35,7 +36,9 @@ const StoreTable: React.FC<StoreTableProps> = ({ data }) => {
     return (
       <div className={`flex flex-col items-center justify-center gap-0.5 font-bold ${textColorClass}`}>
         <span className="text-[18px] leading-none">{config.icon}</span>
-        <span className="text-[10px] whitespace-nowrap">{config.label}</span>
+        <span className="text-[10px] whitespace-nowrap">
+          {language === 'ja' ? config.label : status.charAt(0).toUpperCase() + status.slice(1)}
+        </span>
       </div>
     );
   };
@@ -47,10 +50,10 @@ const StoreTable: React.FC<StoreTableProps> = ({ data }) => {
           {/* Row 1: Dates */}
           <tr>
             <th className="bg-[#f97316] text-white text-[13px] font-bold p-3 border-r border-white/20 w-32 sticky left-0 z-20">
-              エリア
+              {language === 'ja' ? 'エリア' : 'Area'}
             </th>
             <th className="bg-[#f97316] text-white text-[13px] font-bold p-3 border-r border-white/20 sticky left-32 z-20">
-              店名
+              {language === 'ja' ? '店名' : 'Shop Name'}
             </th>
             {eventHeaders.map((event, idx) => (
               <th 
@@ -95,7 +98,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data }) => {
               className="border-b border-slate-100 hover:brightness-[0.98] transition-all"
             >
               <td className="p-3 text-[12px] font-bold text-slate-400 border-r border-slate-100 sticky left-0 bg-white z-10">
-                {item.store.prefecture} {item.store.city}
+                {language === 'ja' ? `${item.store.prefecture} ${item.store.city}` : item.store.prefecture_en}
               </td>
               <td className="p-3 border-r border-slate-100 sticky left-32 bg-white z-10">
                 <a 
@@ -104,7 +107,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data }) => {
                   rel="noopener noreferrer"
                   className="text-[14px] font-bold text-slate-800 hover:text-blue-600 transition-all inline-block"
                 >
-                  {item.store.name}
+                  {language === 'ja' ? item.store.name : item.store.name_en}
                 </a>
               </td>
               {item.events.map((event, eventIdx) => {
