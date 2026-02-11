@@ -1,18 +1,24 @@
 [
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/5",
+      "id": "5506",
       "numericId": 1,
-      "url": "HUB新宿南口店 B1F",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Shinjuku south branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "〇：空きあり"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/5",
+      "name": "HUB新宿南口店 B1F",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Shinjuku south branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -32,22 +38,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/5",
+      "id": "55066",
       "numericId": 2,
-      "url": "HUB新宿南口店 6F",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Shinjuku south branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "△：残りわわずか"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/5",
+      "name": "HUB新宿南口店 6F",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Shinjuku south branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "few"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -67,22 +79,28 @@
         "status": "none"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/44",
+      "id": "5550",
       "numericId": 3,
-      "url": "８２新宿三丁目店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "82 Shinjuku-Sanchome branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/44",
+      "name": "８２新宿三丁目店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "82 Shinjuku-Sanchome branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -102,22 +120,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/58",
+      "id": "5564",
       "numericId": 4,
-      "url": "８２新宿西口大ガード店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "82 Shinjuku west branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/58",
+      "name": "８２新宿西口大ガード店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "82 Shinjuku west branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -137,22 +161,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/88",
+      "id": "5603",
       "numericId": 5,
-      "url": "HUB新宿区役所通り店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Shinjuku Kuyakusho st. branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "〇：空きあり"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/88",
+      "name": "HUB新宿区役所通り店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Shinjuku Kuyakusho st. branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "available"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -172,22 +202,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/32",
+      "id": "5606",
       "numericId": 6,
-      "url": "HUB新宿西口大ガード店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Shinjuku west branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "△：残りわわずか"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/32",
+      "name": "HUB新宿西口大ガード店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Shinjuku west branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "few"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -207,22 +243,28 @@
         "status": "none"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/104",
+      "id": "5621",
       "numericId": 7,
-      "url": "HUB新宿靖国通り店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Shinjuku Yasukuni st. branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/104",
+      "name": "HUB新宿靖国通り店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Shinjuku Yasukuni st. branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -242,22 +284,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/112",
+      "id": "5625",
       "numericId": 8,
-      "url": "HUB西武新宿駅前店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Seibu Shinjuku Ekimae branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/112",
+      "name": "HUB西武新宿駅前店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Seibu Shinjuku Ekimae branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -277,22 +325,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/6",
+      "id": "5507",
       "numericId": 9,
-      "url": "HUB浅草店",
-      "name": "東京都 台東区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "台東区",
-      "city": "HUB Asakusa branch",
-      "name_en": "Taito-ku, Tokyo",
-      "prefecture_en": "〇：空きあり"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/6",
+      "name": "HUB浅草店",
+      "address": "東京都 台東区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "name_en": "HUB Asakusa branch",
+      "prefecture_en": "Taito-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "available"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -312,22 +366,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/25",
+      "id": "5531",
       "numericId": 10,
-      "url": "HUB上野しのばず通り店",
-      "name": "東京都 台東区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "台東区",
-      "city": "HUB Ueno Shinobazu st.branch",
-      "name_en": "Taito-ku, Tokyo",
-      "prefecture_en": "△：残りわわずか"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/25",
+      "name": "HUB上野しのばず通り店",
+      "address": "東京都 台東区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "name_en": "HUB Ueno Shinobazu st.branch",
+      "prefecture_en": "Taito-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "few"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -347,22 +407,28 @@
         "status": "none"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/46",
+      "id": "5552",
       "numericId": 11,
-      "url": "HUB北千住店",
-      "name": "東京都 足立区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "足立区",
-      "city": "HUB Kita-Senju branch",
-      "name_en": "Adachi-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/46",
+      "name": "HUB北千住店",
+      "address": "東京都 足立区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "name_en": "HUB Kita-Senju branch",
+      "prefecture_en": "Adachi-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -382,22 +448,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/57",
+      "id": "5563",
       "numericId": 12,
-      "url": "HUB八重洲店",
-      "name": "東京都 中央区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "中央区",
-      "city": "HUB Yaesu branch",
-      "name_en": "Chuo-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/57",
+      "name": "HUB八重洲店",
+      "address": "東京都 中央区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "name_en": "HUB Yaesu branch",
+      "prefecture_en": "Chuo-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -417,22 +489,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/86",
+      "id": "5602",
       "numericId": 13,
-      "url": "HUB上野昭和通り店",
-      "name": "東京都 台東区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "台東区",
-      "city": "HUB Ueno Showa st. branch",
-      "name_en": "Taito-ku, Tokyo",
-      "prefecture_en": "〇：空きあり"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/86",
+      "name": "HUB上野昭和通り店",
+      "address": "東京都 台東区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "name_en": "HUB Ueno Showa st. branch",
+      "prefecture_en": "Taito-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "available"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -452,22 +530,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/110",
+      "id": "5623",
       "numericId": 14,
-      "url": "HUB上野店",
-      "name": "東京都 台東区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "台東区",
-      "city": "HUB Ueno branch",
-      "name_en": "Taito-ku, Tokyo",
-      "prefecture_en": "△：残りわわずか"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/110",
+      "name": "HUB上野店",
+      "address": "東京都 台東区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "name_en": "HUB Ueno branch",
+      "prefecture_en": "Taito-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "few"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -487,22 +571,28 @@
         "status": "none"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/10",
+      "id": "5513",
       "numericId": 15,
-      "url": "HUB銀座コリドー店",
-      "name": "東京都 中央区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "中央区",
-      "city": "HUB Ginza branch",
-      "name_en": "Chuo-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/10",
+      "name": "HUB銀座コリドー店",
+      "address": "東京都 中央区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "name_en": "HUB Ginza branch",
+      "prefecture_en": "Chuo-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -522,22 +612,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/15",
+      "id": "5520",
       "numericId": 16,
-      "url": "HUB日比谷店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB Hibiya branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/15",
+      "name": "HUB日比谷店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB Hibiya branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -557,22 +653,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/41",
+      "id": "5547",
       "numericId": 17,
-      "url": "８２三田店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "82 Mita branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "〇：空きあり"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/41",
+      "name": "８２三田店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "82 Mita branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "available"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -592,22 +694,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/43",
+      "id": "5549",
       "numericId": 18,
-      "url": "８２浜松町店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "82 Hamamatsucho branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "△：残りわわずか"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/43",
+      "name": "８２浜松町店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "82 Hamamatsucho branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "few"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -627,22 +735,28 @@
         "status": "none"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/71",
+      "id": "5577",
       "numericId": 19,
-      "url": "HUB新橋店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB Shimbashi branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/71",
+      "name": "HUB新橋店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB Shimbashi branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -662,22 +776,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/100",
+      "id": "5613",
       "numericId": 20,
-      "url": "HUB新橋銀座口店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB Shimbashi Ginza Exit branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/100",
+      "name": "HUB新橋銀座口店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB Shimbashi Ginza Exit branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -697,22 +817,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/117",
+      "id": "5630",
       "numericId": 21,
-      "url": "HUB浜松町店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB Hamamatsucho branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/117",
+      "name": "HUB浜松町店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB Hamamatsucho branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -732,22 +858,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/2",
+      "id": "5502",
       "numericId": 22,
-      "url": "HUB渋谷店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB ShibuyaⅠbranch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/2",
+      "name": "HUB渋谷店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB ShibuyaⅠbranch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -767,22 +899,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/38",
+      "id": "5544",
       "numericId": 23,
-      "url": "８２赤坂店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "82 Akasaka branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/38",
+      "name": "８２赤坂店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "82 Akasaka branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -802,22 +940,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/66",
+      "id": "5572",
       "numericId": 24,
-      "url": "８２渋谷宮益坂店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "82 Shibuya Miyamasuzaka branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/66",
+      "name": "８２渋谷宮益坂店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "82 Shibuya Miyamasuzaka branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -837,22 +981,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/96",
+      "id": "5609",
       "numericId": 25,
-      "url": "HUB渋谷道玄坂店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB Shibuya Dogenzaka branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/96",
+      "name": "HUB渋谷道玄坂店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB Shibuya Dogenzaka branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -872,22 +1022,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/109",
+      "id": "5622",
       "numericId": 26,
-      "url": "HUB渋谷2号店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB ShibuyaⅡ branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/109",
+      "name": "HUB渋谷2号店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB ShibuyaⅡ branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -907,22 +1063,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/123",
+      "id": "5633",
       "numericId": 27,
-      "url": "HUB渋谷3号店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB ShibuyaⅢ branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/123",
+      "name": "HUB渋谷3号店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB ShibuyaⅢ branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -942,22 +1104,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/16",
+      "id": "5521",
       "numericId": 28,
-      "url": "HUB東京オペラシティ店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Tokyo Opera City branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/16",
+      "name": "HUB東京オペラシティ店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Tokyo Opera City branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -977,22 +1145,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/42",
+      "id": "5548",
       "numericId": 29,
-      "url": "HUB秋葉原店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB Akihabara branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/42",
+      "name": "HUB秋葉原店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB Akihabara branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1012,22 +1186,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/42",
+      "id": "55488",
       "numericId": 30,
-      "url": "HUB秋葉原店（コラボ営業時間）",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB Akihabara branch (Collaboration Hours)",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/42",
+      "name": "HUB秋葉原店（コラボ営業時間）",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB Akihabara branch (Collaboration Hours)",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1047,22 +1227,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/47",
+      "id": "5553",
       "numericId": 31,
-      "url": "８２AKIBA TOLIM店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "82 Akiba Tolim branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/47",
+      "name": "８２AKIBA TOLIM店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "82 Akiba Tolim branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1082,22 +1268,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/61",
+      "id": "5567",
       "numericId": 32,
-      "url": "HUBロッテシティホテル錦糸町店",
-      "name": "東京都 墨田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "墨田区",
-      "city": "HUB Lotte City Hotel Kinshicho branch",
-      "name_en": "Sumida-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/61",
+      "name": "HUBロッテシティホテル錦糸町店",
+      "address": "東京都 墨田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "name_en": "HUB Lotte City Hotel Kinshicho branch",
+      "prefecture_en": "Sumida-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1117,22 +1309,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/62",
+      "id": "5568",
       "numericId": 33,
-      "url": "８２ロッテシティホテル錦糸町店",
-      "name": "東京都 墨田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "墨田区",
-      "city": "82 Lotte City Hotel Kinshicho branch",
-      "name_en": "Sumida-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/62",
+      "name": "８２ロッテシティホテル錦糸町店",
+      "address": "東京都 墨田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "name_en": "82 Lotte City Hotel Kinshicho branch",
+      "prefecture_en": "Sumida-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1152,22 +1350,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/111",
+      "id": "5624",
       "numericId": 34,
-      "url": "HUBチョムチョム秋葉原店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB chomp chomp AKIHABARA branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/111",
+      "name": "HUBチョムチョム秋葉原店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB chomp chomp AKIHABARA branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1187,22 +1391,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/33",
+      "id": "5539",
       "numericId": 35,
-      "url": "８２神田店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "82 Kanda branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/33",
+      "name": "８２神田店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "82 Kanda branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1222,22 +1432,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/40",
+      "id": "5546",
       "numericId": 36,
-      "url": "HUB東京ドームシティ ラクーア店",
-      "name": "東京都 文京区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "文京区",
-      "city": "HUB Tokyo Dome City LaQua branch",
-      "name_en": "Bunkyo-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/40",
+      "name": "HUB東京ドームシティ ラクーア店",
+      "address": "東京都 文京区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "name_en": "HUB Tokyo Dome City LaQua branch",
+      "prefecture_en": "Bunkyo-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1257,22 +1473,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/53",
+      "id": "5559",
       "numericId": 37,
-      "url": "８２築地店",
-      "name": "東京都 中央区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "中央区",
-      "city": "82 Tsukiji branch",
-      "name_en": "Chuo-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/53",
+      "name": "８２築地店",
+      "address": "東京都 中央区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "name_en": "82 Tsukiji branch",
+      "prefecture_en": "Chuo-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1292,22 +1514,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/60",
+      "id": "5566",
       "numericId": 38,
-      "url": "８２東銀座店",
-      "name": "東京都 中央区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "中央区",
-      "city": "82 Higashi-ginza branch",
-      "name_en": "Chuo-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/60",
+      "name": "８２東銀座店",
+      "address": "東京都 中央区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "name_en": "82 Higashi-ginza branch",
+      "prefecture_en": "Chuo-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1327,22 +1555,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/77",
+      "id": "5583",
       "numericId": 39,
-      "url": "HUB神田東口店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB Kanda east branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/77",
+      "name": "HUB神田東口店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB Kanda east branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1362,22 +1596,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/108",
+      "id": "5620",
       "numericId": 40,
-      "url": "HUB四谷しんみち通り店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Yotsuya Shimmichi st. branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/108",
+      "name": "HUB四谷しんみち通り店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Yotsuya Shimmichi st. branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1397,22 +1637,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/115",
+      "id": "5628",
       "numericId": 41,
-      "url": "HUB飯田橋東口店",
-      "name": "東京都 千代田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "千代田区",
-      "city": "HUB Iidabashi east branch",
-      "name_en": "Chiyoda-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/115",
+      "name": "HUB飯田橋東口店",
+      "address": "東京都 千代田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "name_en": "HUB Iidabashi east branch",
+      "prefecture_en": "Chiyoda-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1432,22 +1678,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/13",
+      "id": "5518",
       "numericId": 42,
-      "url": "HUB池袋東口店",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB Ikebukuro east branch",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/13",
+      "name": "HUB池袋東口店",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB Ikebukuro east branch",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1467,22 +1719,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/23",
+      "id": "5529",
       "numericId": 43,
-      "url": "HUB池袋西口公園店",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB Ikebukuro west park branch",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/23",
+      "name": "HUB池袋西口公園店",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB Ikebukuro west park branch",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1502,22 +1760,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/26",
+      "id": "5532",
       "numericId": 44,
-      "url": "HUB池袋東口店ANNEX",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB Ikebukuro east branch annex",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/26",
+      "name": "HUB池袋東口店ANNEX",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB Ikebukuro east branch annex",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1537,22 +1801,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/34",
+      "id": "5540",
       "numericId": 45,
-      "url": "HUB池袋西口店",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB Ikebukuro west branch",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/34",
+      "name": "HUB池袋西口店",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB Ikebukuro west branch",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1572,22 +1842,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/93",
+      "id": "5578",
       "numericId": 46,
-      "url": "HUB池袋サンシャイン通り店",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB Ikebukuro Sunshine st. branch",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/93",
+      "name": "HUB池袋サンシャイン通り店",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB Ikebukuro Sunshine st. branch",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1607,22 +1883,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/122",
+      "id": "5632",
       "numericId": 47,
-      "url": "HUB+８２池袋ＷＡＣＣＡ店",
-      "name": "東京都 豊島区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "豊島区",
-      "city": "HUB+82 Ikebukuro WACCA branch",
-      "name_en": "Toshima-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/122",
+      "name": "HUB+８２池袋ＷＡＣＣＡ店",
+      "address": "東京都 豊島区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "name_en": "HUB+82 Ikebukuro WACCA branch",
+      "prefecture_en": "Toshima-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1642,22 +1924,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/90",
+      "id": "5605",
       "numericId": 48,
-      "url": "HUB渋谷センター街店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB Shibuya Center-Gai branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/90",
+      "name": "HUB渋谷センター街店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB Shibuya Center-Gai branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1677,22 +1965,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/37",
+      "id": "5543",
       "numericId": 49,
-      "url": "HUB大宮東口店",
-      "name": "埼玉県 さいたま市",
-      "address": "関東",
-      "region": "埼玉県",
-      "prefecture": "さいたま市",
-      "city": "HUB Omiya east branch",
-      "name_en": "Saitama-shi, Saitama",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/37",
+      "name": "HUB大宮東口店",
+      "address": "埼玉県 さいたま市",
+      "region": "関東",
+      "prefecture": "埼玉県",
+      "city": "さいたま市",
+      "name_en": "HUB Omiya east branch",
+      "prefecture_en": "Saitama-shi, Saitama"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1712,22 +2006,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/85",
+      "id": "5601",
       "numericId": 50,
-      "url": "HUB仙台名掛丁店",
-      "name": "宮城県 仙台市",
-      "address": "東北",
-      "region": "宮城県",
-      "prefecture": "仙台市",
-      "city": "HUB Sendai Nakakecho branch",
-      "name_en": "Sendai-shi, Miyagi",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/85",
+      "name": "HUB仙台名掛丁店",
+      "address": "宮城県 仙台市",
+      "region": "東北",
+      "prefecture": "宮城県",
+      "city": "仙台市",
+      "name_en": "HUB Sendai Nakakecho branch",
+      "prefecture_en": "Sendai-shi, Miyagi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1747,22 +2047,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/89",
+      "id": "5604",
       "numericId": 51,
-      "url": "HUB仙台一番町四丁目店",
-      "name": "宮城県 仙台市",
-      "address": "東北",
-      "region": "宮城県",
-      "prefecture": "仙台市",
-      "city": "HUB SendaiIchibancho-Yonchome branch",
-      "name_en": "Sendai-shi, Miyagi",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/89",
+      "name": "HUB仙台一番町四丁目店",
+      "address": "宮城県 仙台市",
+      "region": "東北",
+      "prefecture": "宮城県",
+      "city": "仙台市",
+      "name_en": "HUB SendaiIchibancho-Yonchome branch",
+      "prefecture_en": "Sendai-shi, Miyagi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1782,22 +2088,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/105",
+      "id": "5617",
       "numericId": 52,
-      "url": "HUB川口店",
-      "name": "埼玉県 川口市",
-      "address": "関東",
-      "region": "埼玉県",
-      "prefecture": "川口市",
-      "city": "HUB Kawaguchi branch",
-      "name_en": "Kawaguchi-shi, Saitama",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/105",
+      "name": "HUB川口店",
+      "address": "埼玉県 川口市",
+      "region": "関東",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "name_en": "HUB Kawaguchi branch",
+      "prefecture_en": "Kawaguchi-shi, Saitama"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1817,22 +2129,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/134",
+      "id": "5643",
       "numericId": 53,
-      "url": "HUB Echigo Beer PUB CoCoLo新潟店",
-      "name": "新潟県 新潟市",
-      "address": "中部",
-      "region": "新潟県",
-      "prefecture": "新潟市",
-      "city": "HUB Echigo Beer PUB CoCoLo Niigata branch",
-      "name_en": "Niigata-shi, Niigata",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/134",
+      "name": "HUB Echigo Beer PUB CoCoLo新潟店",
+      "address": "新潟県 新潟市",
+      "region": "中部",
+      "prefecture": "新潟県",
+      "city": "新潟市",
+      "name_en": "HUB Echigo Beer PUB CoCoLo Niigata branch",
+      "prefecture_en": "Niigata-shi, Niigata"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1852,22 +2170,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/140",
+      "id": "5648",
       "numericId": 54,
-      "url": "HUB富山MAROOT店",
-      "name": "富山県 富山市",
-      "address": "中部",
-      "region": "富山県",
-      "prefecture": "富山市",
-      "city": "HUB Toyama MAROOT Branch",
-      "name_en": "Toyama-shi, Toyama",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/140",
+      "name": "HUB富山MAROOT店",
+      "address": "富山県 富山市",
+      "region": "中部",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "name_en": "HUB Toyama MAROOT Branch",
+      "prefecture_en": "Toyama-shi, Toyama"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1887,22 +2211,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/51",
+      "id": "5557",
       "numericId": 55,
-      "url": "HUB慶應日吉店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB KEIO Hiyoshi branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/51",
+      "name": "HUB慶應日吉店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB KEIO Hiyoshi branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1922,22 +2252,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/52",
+      "id": "5558",
       "numericId": 56,
-      "url": "HUB町田店",
-      "name": "東京都 町田市",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "町田市",
-      "city": "HUB Machida branch",
-      "name_en": "Machida-shi, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/52",
+      "name": "HUB町田店",
+      "address": "東京都 町田市",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "name_en": "HUB Machida branch",
+      "prefecture_en": "Machida-shi, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1957,22 +2293,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/70",
+      "id": "5576",
       "numericId": 57,
-      "url": "HUB蒲田西口店",
-      "name": "東京都 大田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "大田区",
-      "city": "HUB Kamata west branch",
-      "name_en": "Ota-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/70",
+      "name": "HUB蒲田西口店",
+      "address": "東京都 大田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "name_en": "HUB Kamata west branch",
+      "prefecture_en": "Ota-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -1992,22 +2334,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/79",
+      "id": "5585",
       "numericId": 58,
-      "url": "HUB相模大野店",
-      "name": "神奈川県 相模原市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "相模原市",
-      "city": "HUB Sagamiono branch",
-      "name_en": "Sagamihara-shi, Kanagawa",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/79",
+      "name": "HUB相模大野店",
+      "address": "神奈川県 相模原市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "相模原市",
+      "name_en": "HUB Sagamiono branch",
+      "prefecture_en": "Sagamihara-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2027,22 +2375,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/95",
+      "id": "5608",
       "numericId": 59,
-      "url": "HUB新横浜店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB Shin-Yokohama branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/95",
+      "name": "HUB新横浜店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB Shin-Yokohama branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2062,22 +2416,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/131",
+      "id": "5640",
       "numericId": 60,
-      "url": "HUB羽田空港第2ターミナル店",
-      "name": "東京都 大田区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "大田区",
-      "city": "HUB Haneda Airport Terminal 2 branch",
-      "name_en": "Ota-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/131",
+      "name": "HUB羽田空港第2ターミナル店",
+      "address": "東京都 大田区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "name_en": "HUB Haneda Airport Terminal 2 branch",
+      "prefecture_en": "Ota-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2097,22 +2457,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/17",
+      "id": "5522",
       "numericId": 61,
-      "url": "HUB高田馬場店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Takadanobaba branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/17",
+      "name": "HUB高田馬場店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Takadanobaba branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2132,22 +2498,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/22",
+      "id": "5528",
       "numericId": 62,
-      "url": "HUB吉祥寺南口店",
-      "name": "東京都 武蔵野市",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "武蔵野市",
-      "city": "HUB Kichijoji south branch",
-      "name_en": "Musashino-shi, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/22",
+      "name": "HUB吉祥寺南口店",
+      "address": "東京都 武蔵野市",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "name_en": "HUB Kichijoji south branch",
+      "prefecture_en": "Musashino-shi, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2167,22 +2539,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/24",
+      "id": "5530",
       "numericId": 63,
-      "url": "HUB八王子店",
-      "name": "東京都 八王子市",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "八王子市",
-      "city": "HUB Hachioji branch",
-      "name_en": "Hachioji-shi, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/24",
+      "name": "HUB八王子店",
+      "address": "東京都 八王子市",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "name_en": "HUB Hachioji branch",
+      "prefecture_en": "Hachioji-shi, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2202,22 +2580,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/29",
+      "id": "5535",
       "numericId": 64,
-      "url": "HUB所沢プロペ通り店",
-      "name": "埼玉県 所沢市",
-      "address": "関東",
-      "region": "埼玉県",
-      "prefecture": "所沢市",
-      "city": "HUB Tokorozawa Prope st.branch",
-      "name_en": "Tokorozawa-shi, Saitama",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/29",
+      "name": "HUB所沢プロペ通り店",
+      "address": "埼玉県 所沢市",
+      "region": "関東",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "name_en": "HUB Tokorozawa Prope st.branch",
+      "prefecture_en": "Tokorozawa-shi, Saitama"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2237,22 +2621,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/101",
+      "id": "5614",
       "numericId": 65,
-      "url": "HUB高田馬場駅西店",
-      "name": "東京都 新宿区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "新宿区",
-      "city": "HUB Takadanobaba west branch",
-      "name_en": "Shinjuku-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/101",
+      "name": "HUB高田馬場駅西店",
+      "address": "東京都 新宿区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "name_en": "HUB Takadanobaba west branch",
+      "prefecture_en": "Shinjuku-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2272,22 +2662,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/39",
+      "id": "5545",
       "numericId": 66,
-      "url": "８２関内店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "82 Kannai branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/39",
+      "name": "８２関内店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "82 Kannai branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2307,22 +2703,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/54",
+      "id": "5560",
       "numericId": 67,
-      "url": "HUB横浜鶴屋町店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB Yokohama Tsuruyacho branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/54",
+      "name": "HUB横浜鶴屋町店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB Yokohama Tsuruyacho branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2342,22 +2744,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/56",
+      "id": "5562",
       "numericId": 68,
-      "url": "HUB横浜西口店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB Yokohama west branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/56",
+      "name": "HUB横浜西口店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB Yokohama west branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2377,22 +2785,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/73",
+      "id": "5579",
       "numericId": 69,
-      "url": "８２横浜西口店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "82 Yokohama west branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/73",
+      "name": "８２横浜西口店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "82 Yokohama west branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2412,22 +2826,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/103",
+      "id": "5616",
       "numericId": 70,
-      "url": "HUB藤沢店",
-      "name": "神奈川県 藤沢市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "藤沢市",
-      "city": "HUB Fujisawa branch",
-      "name_en": "Fujisawa-shi, Kanagawa",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/103",
+      "name": "HUB藤沢店",
+      "address": "神奈川県 藤沢市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "name_en": "HUB Fujisawa branch",
+      "prefecture_en": "Fujisawa-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2447,22 +2867,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/113",
+      "id": "5626",
       "numericId": 71,
-      "url": "HUBリッチモンドホテル横浜駅前店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB Richmond Hotel Yokohama Ekimae branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/113",
+      "name": "HUBリッチモンドホテル横浜駅前店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB Richmond Hotel Yokohama Ekimae branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2482,22 +2908,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/11",
+      "id": "5514",
       "numericId": 72,
-      "url": "HUB新浦安店",
-      "name": "千葉県 浦安市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "浦安市",
-      "city": "HUB Shin-urayasu branch",
-      "name_en": "Urayasu-shi, Chiba",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/11",
+      "name": "HUB新浦安店",
+      "address": "千葉県 浦安市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "name_en": "HUB Shin-urayasu branch",
+      "prefecture_en": "Urayasu-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2517,22 +2949,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/28",
+      "id": "5534",
       "numericId": 73,
-      "url": "HUB柏西口店",
-      "name": "千葉県 柏市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "柏市",
-      "city": "HUB Kashiwa west branch",
-      "name_en": "Kashiwa-shi, Chiba",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/28",
+      "name": "HUB柏西口店",
+      "address": "千葉県 柏市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "name_en": "HUB Kashiwa west branch",
+      "prefecture_en": "Kashiwa-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2552,22 +2990,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/59",
+      "id": "5565",
       "numericId": 74,
-      "url": "HUB千葉富士見店",
-      "name": "千葉県 千葉市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "千葉市",
-      "city": "HUB Chiba Fujimi branch",
-      "name_en": "Chiba-shi, Chiba",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/59",
+      "name": "HUB千葉富士見店",
+      "address": "千葉県 千葉市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "name_en": "HUB Chiba Fujimi branch",
+      "prefecture_en": "Chiba-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2587,22 +3031,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/75",
+      "id": "5581",
       "numericId": 75,
-      "url": "HUB船橋店",
-      "name": "千葉県 船橋市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "船橋市",
-      "city": "HUB Funabashi branch",
-      "name_en": "Funabashi-shi, Chiba",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/75",
+      "name": "HUB船橋店",
+      "address": "千葉県 船橋市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "name_en": "HUB Funabashi branch",
+      "prefecture_en": "Funabashi-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2622,22 +3072,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/78",
+      "id": "5584",
       "numericId": 76,
-      "url": "HUB海浜幕張店",
-      "name": "千葉県 千葉市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "千葉市",
-      "city": "HUB Kaihinmakuhari branch",
-      "name_en": "Chiba-shi, Chiba",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/78",
+      "name": "HUB海浜幕張店",
+      "address": "千葉県 千葉市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "name_en": "HUB Kaihinmakuhari branch",
+      "prefecture_en": "Chiba-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2657,22 +3113,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/99",
+      "id": "5612",
       "numericId": 77,
-      "url": "HUB津田沼店",
-      "name": "千葉県 船橋市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "船橋市",
-      "city": "HUB Tsudanuma branch",
-      "name_en": "Funabashi-shi, Chiba",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/99",
+      "name": "HUB津田沼店",
+      "address": "千葉県 船橋市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "name_en": "HUB Tsudanuma branch",
+      "prefecture_en": "Funabashi-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2692,22 +3154,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/136",
+      "id": "5645",
       "numericId": 78,
-      "url": "HUB JEF UNITED PUB ペリエ千葉エキナカ店",
-      "name": "千葉県 千葉市",
-      "address": "関東",
-      "region": "千葉県",
-      "prefecture": "千葉市",
-      "city": "HUB JEF UNITED PUB Perie Chiba Ekinaka branch",
-      "name_en": "Chiba-shi, Chiba",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/136",
+      "name": "HUB JEF UNITED PUB ペリエ千葉エキナカ店",
+      "address": "千葉県 千葉市",
+      "region": "関東",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "name_en": "HUB JEF UNITED PUB Perie Chiba Ekinaka branch",
+      "prefecture_en": "Chiba-shi, Chiba"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2727,22 +3195,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/1",
+      "id": "5501",
       "numericId": 79,
-      "url": "HUB六本木店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB RoppongiⅠbranch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/1",
+      "name": "HUB六本木店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB RoppongiⅠbranch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2762,22 +3236,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/31",
+      "id": "5537",
       "numericId": 80,
-      "url": "HUB恵比寿店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB Ebisu branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/31",
+      "name": "HUB恵比寿店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB Ebisu branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2797,22 +3277,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/35",
+      "id": "5541",
       "numericId": 81,
-      "url": "８２品川店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "82 Shinagawa branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/35",
+      "name": "８２品川店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "82 Shinagawa branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2832,22 +3318,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/64",
+      "id": "5570",
       "numericId": 82,
-      "url": "HUB代々木西口店",
-      "name": "東京都 渋谷区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "渋谷区",
-      "city": "HUB Yoyogi west branch",
-      "name_en": "Shibuya-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/64",
+      "name": "HUB代々木西口店",
+      "address": "東京都 渋谷区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "name_en": "HUB Yoyogi west branch",
+      "prefecture_en": "Shibuya-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2867,22 +3359,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/65",
+      "id": "5571",
       "numericId": 83,
-      "url": "HUB外苑前店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB Gaiemmae branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/65",
+      "name": "HUB外苑前店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB Gaiemmae branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2902,22 +3400,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/67",
+      "id": "5573",
       "numericId": 84,
-      "url": "８２五反田西口店",
-      "name": "東京都 品川区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "品川区",
-      "city": "82 Gotanda west branch",
-      "name_en": "Shinagawa-ku, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/67",
+      "name": "８２五反田西口店",
+      "address": "東京都 品川区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "name_en": "82 Gotanda west branch",
+      "prefecture_en": "Shinagawa-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2937,22 +3441,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/74",
+      "id": "5580",
       "numericId": 85,
-      "url": "HUB神谷町店",
-      "name": "東京都 港区",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "港区",
-      "city": "HUB Kamiyacho branch",
-      "name_en": "Minato-ku, Tokyo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/74",
+      "name": "HUB神谷町店",
+      "address": "東京都 港区",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "港区",
+      "name_en": "HUB Kamiyacho branch",
+      "prefecture_en": "Minato-ku, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -2972,22 +3482,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/106",
+      "id": "5618",
       "numericId": 86,
-      "url": "HUB立川南口店",
-      "name": "東京都 立川市",
-      "address": "関東",
-      "region": "東京都",
-      "prefecture": "立川市",
-      "city": "HUB Tachikawa south branch",
-      "name_en": "Tachikawa-shi, Tokyo",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/106",
+      "name": "HUB立川南口店",
+      "address": "東京都 立川市",
+      "region": "関東",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "name_en": "HUB Tachikawa south branch",
+      "prefecture_en": "Tachikawa-shi, Tokyo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3007,22 +3523,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/130",
+      "id": "5639",
       "numericId": 87,
-      "url": "HUB桜木町クロスゲート店",
-      "name": "神奈川県 横浜市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "横浜市",
-      "city": "HUB Sakuragicho CROSS GATE branch",
-      "name_en": "Yokohama-shi, Kanagawa",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/130",
+      "name": "HUB桜木町クロスゲート店",
+      "address": "神奈川県 横浜市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "name_en": "HUB Sakuragicho CROSS GATE branch",
+      "prefecture_en": "Yokohama-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3042,22 +3564,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/27",
+      "id": "5533",
       "numericId": 88,
-      "url": "HUB川崎店",
-      "name": "神奈川県 川崎市",
-      "address": "関東",
-      "region": "神奈川県",
-      "prefecture": "川崎市",
-      "city": "HUB Kawasaki branch",
-      "name_en": "Kawasaki-shi, Kanagawa",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/27",
+      "name": "HUB川崎店",
+      "address": "神奈川県 川崎市",
+      "region": "関東",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "name_en": "HUB Kawasaki branch",
+      "prefecture_en": "Kawasaki-shi, Kanagawa"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3077,22 +3605,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/4",
+      "id": "5505",
       "numericId": 89,
-      "url": "HUB三宮ムーンライトビル店",
-      "name": "兵庫県 神戸市",
-      "address": "関西",
-      "region": "兵庫県",
-      "prefecture": "神戸市",
-      "city": "HUB Sannomiya branch",
-      "name_en": "Kobe-shi, Hyogo",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/4",
+      "name": "HUB三宮ムーンライトビル店",
+      "address": "兵庫県 神戸市",
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "city": "神戸市",
+      "name_en": "HUB Sannomiya branch",
+      "prefecture_en": "Kobe-shi, Hyogo"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3112,22 +3646,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/20",
+      "id": "5525",
       "numericId": 90,
-      "url": "HUBなんば戎橋店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Namba Ebisubashi branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/20",
+      "name": "HUBなんば戎橋店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Namba Ebisubashi branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3147,22 +3687,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/50",
+      "id": "5556",
       "numericId": 91,
-      "url": "HUB心斎橋店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Shinsaibashi branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/50",
+      "name": "HUB心斎橋店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Shinsaibashi branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3182,22 +3728,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/69",
+      "id": "5575",
       "numericId": 92,
-      "url": "HUBあべのキューズモール店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Abeno Q'sMall branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/69",
+      "name": "HUBあべのキューズモール店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Abeno Q'sMall branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3217,22 +3769,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/76",
+      "id": "5582",
       "numericId": 93,
-      "url": "HUB中之島フェスティバルプラザ店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Nakanoshima Festival Plaza branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/76",
+      "name": "HUB中之島フェスティバルプラザ店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Nakanoshima Festival Plaza branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3252,22 +3810,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/137",
+      "id": "5647",
       "numericId": 94,
-      "url": "HUBアミュプラザみやざき店",
-      "name": "宮崎県 宮崎市",
-      "address": "九州",
-      "region": "宮崎県",
-      "prefecture": "宮崎市",
-      "city": "HUB AMU PLAZA MIYAZAKI branch",
-      "name_en": "Miyazaki-shi, Miyazaki",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/137",
+      "name": "HUBアミュプラザみやざき店",
+      "address": "宮崎県 宮崎市",
+      "region": "九州",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "name_en": "HUB AMU PLAZA MIYAZAKI branch",
+      "prefecture_en": "Miyazaki-shi, Miyazaki"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3287,22 +3851,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/49",
+      "id": "5555",
       "numericId": 95,
-      "url": "HUB梅田茶屋町店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Umeda Chayamachi branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/49",
+      "name": "HUB梅田茶屋町店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Umeda Chayamachi branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3322,22 +3892,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/82",
+      "id": "5588",
       "numericId": 96,
-      "url": "HUB京阪京橋店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Keihankyobashi branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/82",
+      "name": "HUB京阪京橋店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Keihankyobashi branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3357,22 +3933,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/94",
+      "id": "5607",
       "numericId": 97,
-      "url": "HUB梅田茶屋町アプローズ店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Umeda Chayamachi Applause branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/94",
+      "name": "HUB梅田茶屋町アプローズ店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Umeda Chayamachi Applause branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3392,22 +3974,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/102",
+      "id": "5615",
       "numericId": 98,
-      "url": "HUB東梅田店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Higashi-Umeda branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/102",
+      "name": "HUB東梅田店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Higashi-Umeda branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3427,22 +4015,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/126",
+      "id": "5635",
       "numericId": 99,
-      "url": "HUB梅田東通り店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB Umeda Higashi Dori branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/126",
+      "name": "HUB梅田東通り店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB Umeda Higashi Dori branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3462,22 +4056,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/125",
+      "id": "5636",
       "numericId": 100,
-      "url": "HUB LINKS UMEDA店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB LINKS UMEDA branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/125",
+      "name": "HUB LINKS UMEDA店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB LINKS UMEDA branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3497,22 +4097,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/135",
+      "id": "5644",
       "numericId": 101,
-      "url": "HUBエキマルシェ大阪ウメスト店",
-      "name": "大阪府 大阪市",
-      "address": "関西",
-      "region": "大阪府",
-      "prefecture": "大阪市",
-      "city": "HUB EKI MARCHÉ OSAKA UMEST branch",
-      "name_en": "Osaka-shi, Osaka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/135",
+      "name": "HUBエキマルシェ大阪ウメスト店",
+      "address": "大阪府 大阪市",
+      "region": "関西",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "name_en": "HUB EKI MARCHÉ OSAKA UMEST branch",
+      "prefecture_en": "Osaka-shi, Osaka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3532,22 +4138,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/30",
+      "id": "5536",
       "numericId": 102,
-      "url": "HUB四条烏丸店",
-      "name": "京都府 京都市",
-      "address": "関西",
-      "region": "京都府",
-      "prefecture": "京都市",
-      "city": "HUB Shijokarasuma branch",
-      "name_en": "Kyoto-shi, Kyoto",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/30",
+      "name": "HUB四条烏丸店",
+      "address": "京都府 京都市",
+      "region": "関西",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "name_en": "HUB Shijokarasuma branch",
+      "prefecture_en": "Kyoto-shi, Kyoto"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3567,22 +4179,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/36",
+      "id": "5542",
       "numericId": 103,
-      "url": "HUB名古屋栄錦通り店",
-      "name": "愛知県 名古屋市",
-      "address": "中部",
-      "region": "愛知県",
-      "prefecture": "名古屋市",
-      "city": "HUB Nagoya Sakae Nishiki st. branch",
-      "name_en": "Nagoya-shi, Aichi",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/36",
+      "name": "HUB名古屋栄錦通り店",
+      "address": "愛知県 名古屋市",
+      "region": "中部",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "name_en": "HUB Nagoya Sakae Nishiki st. branch",
+      "prefecture_en": "Nagoya-shi, Aichi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3602,22 +4220,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/55",
+      "id": "5561",
       "numericId": 104,
-      "url": "HUB名駅店",
-      "name": "愛知県 名古屋市",
-      "address": "中部",
-      "region": "愛知県",
-      "prefecture": "名古屋市",
-      "city": "HUB Meieki branch",
-      "name_en": "Nagoya-shi, Aichi",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/55",
+      "name": "HUB名駅店",
+      "address": "愛知県 名古屋市",
+      "region": "中部",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "name_en": "HUB Meieki branch",
+      "prefecture_en": "Nagoya-shi, Aichi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3637,22 +4261,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/84",
+      "id": "5589",
       "numericId": 105,
-      "url": "HUB京都ヨドバシ店",
-      "name": "京都府 京都市",
-      "address": "関西",
-      "region": "京都府",
-      "prefecture": "京都市",
-      "city": "HUB Kyoto Yodobashi branch",
-      "name_en": "Kyoto-shi, Kyoto",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/84",
+      "name": "HUB京都ヨドバシ店",
+      "address": "京都府 京都市",
+      "region": "関西",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "name_en": "HUB Kyoto Yodobashi branch",
+      "prefecture_en": "Kyoto-shi, Kyoto"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3672,22 +4302,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/97",
+      "id": "5610",
       "numericId": 106,
-      "url": "HUB名駅四丁目店",
-      "name": "愛知県 名古屋市",
-      "address": "中部",
-      "region": "愛知県",
-      "prefecture": "名古屋市",
-      "city": "HUB Meieki-Yonchome branch",
-      "name_en": "Nagoya-shi, Aichi",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/97",
+      "name": "HUB名駅四丁目店",
+      "address": "愛知県 名古屋市",
+      "region": "中部",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "name_en": "HUB Meieki-Yonchome branch",
+      "prefecture_en": "Nagoya-shi, Aichi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3707,22 +4343,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/107",
+      "id": "5619",
       "numericId": 107,
-      "url": "HUB三条木屋町店",
-      "name": "京都府 京都市",
-      "address": "関西",
-      "region": "京都府",
-      "prefecture": "京都市",
-      "city": "HUB Sanjo kiyamachi branch",
-      "name_en": "Kyoto-shi, Kyoto",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/107",
+      "name": "HUB三条木屋町店",
+      "address": "京都府 京都市",
+      "region": "関西",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "name_en": "HUB Sanjo kiyamachi branch",
+      "prefecture_en": "Kyoto-shi, Kyoto"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3742,22 +4384,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/128",
+      "id": "5638",
       "numericId": 108,
-      "url": "HUB GRAMPUS PUB MIRAI TOWER店",
-      "name": "愛知県 名古屋市",
-      "address": "中部",
-      "region": "愛知県",
-      "prefecture": "名古屋市",
-      "city": "HUB GRAMPUS PUB MIRAI TOWER branch",
-      "name_en": "Nagoya-shi, Aichi",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/128",
+      "name": "HUB GRAMPUS PUB MIRAI TOWER店",
+      "address": "愛知県 名古屋市",
+      "region": "中部",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "name_en": "HUB GRAMPUS PUB MIRAI TOWER branch",
+      "prefecture_en": "Nagoya-shi, Aichi"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3777,22 +4425,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/132",
+      "id": "5641",
       "numericId": 109,
-      "url": "HUB COCONO SUSUKINO店",
-      "name": "北海道 札幌市",
-      "address": "北海道",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/132",
+      "name": "HUB COCONO SUSUKINO店",
+      "address": "北海道 札幌市",
       "region": "北海道",
-      "prefecture": "札幌市",
-      "city": "HUB COCONO SUSUKINO branch",
-      "name_en": "Sapporo-shi, Hokkaido",
-      "prefecture_en": "×：満席"
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "name_en": "HUB COCONO SUSUKINO branch",
+      "prefecture_en": "Sapporo-shi, Hokkaido"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3812,22 +4466,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/120",
+      "id": "5631",
       "numericId": 110,
-      "url": "HUBみずほPayPayドーム福岡店",
-      "name": "福岡県 福岡市",
-      "address": "九州",
-      "region": "福岡県",
-      "prefecture": "福岡市",
-      "city": "HUB MIZUHO PayPay Dome FUKUOKA branch",
-      "name_en": "Fukuoka-shi, Fukuoka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/120",
+      "name": "HUBみずほPayPayドーム福岡店",
+      "address": "福岡県 福岡市",
+      "region": "九州",
+      "prefecture": "福岡県",
+      "city": "福岡市",
+      "name_en": "HUB MIZUHO PayPay Dome FUKUOKA branch",
+      "prefecture_en": "Fukuoka-shi, Fukuoka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3847,22 +4507,28 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/125",
+      "id": "5637",
       "numericId": 111,
-      "url": "HUB福岡大名店",
-      "name": "福岡県 福岡市",
-      "address": "九州",
-      "region": "福岡県",
-      "prefecture": "福岡市",
-      "city": "HUB Fukuoka Daimyo branch",
-      "name_en": "Fukuoka-shi, Fukuoka",
-      "prefecture_en": "×：満席"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/125",
+      "name": "HUB福岡大名店",
+      "address": "福岡県 福岡市",
+      "region": "九州",
+      "prefecture": "福岡県",
+      "city": "福岡市",
+      "name_en": "HUB Fukuoka Daimyo branch",
+      "prefecture_en": "Fukuoka-shi, Fukuoka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "full"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3882,22 +4548,28 @@
         "status": "full"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   },
   {
     "store": {
-      "id": "https://www.pub-hub.com/index.php/shop/detail/133",
+      "id": "5642",
       "numericId": 112,
-      "url": "HUB博多筑紫口デイトスアネックス店",
-      "name": "福岡県 福岡市",
-      "address": "九州",
-      "region": "福岡県",
-      "prefecture": "福岡市",
-      "city": "HUB HAKATA ChikushiGate DEITOS ANNEX branch",
-      "name_en": "Fukuoka-shi, Fukuoka",
-      "prefecture_en": "‐：未実施"
+      "url": "https://www.pub-hub.com/index.php/shop/detail/133",
+      "name": "HUB博多筑紫口デイトスアネックス店",
+      "address": "福岡県 福岡市",
+      "region": "九州",
+      "prefecture": "福岡県",
+      "city": "福岡市",
+      "name_en": "HUB HAKATA ChikushiGate DEITOS ANNEX branch",
+      "prefecture_en": "Fukuoka-shi, Fukuoka"
     },
     "events": [
+      {
+        "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
+        "eventName": "Sports Event",
+        "matchUp": "日本代表VSアメリカ代表",
+        "status": "none"
+      },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
@@ -3917,6 +4589,6 @@
         "status": "few"
       }
     ],
-    "updatedAt": "2026-02-11T07:06:56.121Z"
+    "updatedAt": "2026-02-11T07:14:47.051Z"
   }
 ]
