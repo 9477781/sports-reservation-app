@@ -17,28 +17,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -58,28 +58,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "none"
+        "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -99,28 +99,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -140,28 +140,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -181,28 +181,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -222,28 +222,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "none"
+        "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -263,28 +263,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -304,28 +304,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -345,28 +345,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -386,28 +386,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "none"
+        "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -427,28 +427,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -468,28 +468,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -509,28 +509,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -550,28 +550,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "none"
+        "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -591,28 +591,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -632,28 +632,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -673,28 +673,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -714,28 +714,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "none"
+        "status": "‐：未実施"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -755,28 +755,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -796,28 +796,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -837,28 +837,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -878,28 +878,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -919,28 +919,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -960,28 +960,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1001,28 +1001,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1042,28 +1042,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1083,28 +1083,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1124,28 +1124,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1165,28 +1165,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1206,28 +1206,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1247,28 +1247,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1288,28 +1288,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1329,28 +1329,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1370,28 +1370,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1411,28 +1411,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1452,28 +1452,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1493,28 +1493,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1534,28 +1534,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1575,28 +1575,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1616,28 +1616,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1657,28 +1657,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1698,28 +1698,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1739,28 +1739,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1780,28 +1780,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1821,28 +1821,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1862,28 +1862,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1903,28 +1903,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1944,28 +1944,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -1985,28 +1985,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2026,28 +2026,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2067,28 +2067,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2108,28 +2108,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2149,28 +2149,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2190,28 +2190,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2231,28 +2231,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2272,28 +2272,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2313,28 +2313,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2354,28 +2354,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2395,28 +2395,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2436,28 +2436,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2477,28 +2477,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2518,28 +2518,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2559,28 +2559,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2600,28 +2600,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2641,28 +2641,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2682,28 +2682,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2723,28 +2723,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2764,28 +2764,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2805,28 +2805,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2846,28 +2846,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2887,28 +2887,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2928,28 +2928,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -2969,28 +2969,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3010,28 +3010,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3051,28 +3051,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3092,28 +3092,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3133,28 +3133,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3174,28 +3174,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3215,28 +3215,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3256,28 +3256,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3297,28 +3297,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3338,28 +3338,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3379,28 +3379,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3420,28 +3420,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3461,28 +3461,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3502,28 +3502,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3543,28 +3543,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3584,28 +3584,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3625,28 +3625,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3666,28 +3666,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3707,28 +3707,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3748,28 +3748,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3789,28 +3789,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3830,28 +3830,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3871,28 +3871,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3912,28 +3912,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3953,28 +3953,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -3994,28 +3994,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4035,28 +4035,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4076,28 +4076,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4117,28 +4117,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4158,28 +4158,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4199,28 +4199,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4240,28 +4240,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4281,28 +4281,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4322,28 +4322,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4363,28 +4363,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4404,28 +4404,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4445,28 +4445,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4486,28 +4486,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4527,28 +4527,28 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "available"
+        "status": "〇：空きあり"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "full"
+        "status": "×：満席"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "full"
+        "status": "×：満席"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   },
   {
     "store": {
@@ -4568,27 +4568,27 @@
         "date": "Sun Mar 01 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表VSアメリカ代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Tue Mar 03 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vs台湾代表",
-        "status": "none"
+        "status": "‐：未実施"
       },
       {
         "date": "Thu Mar 05 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Sports Event",
         "matchUp": "日本代表vs韓国代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       },
       {
         "date": "Tue Mar 10 2026 00:00:00 GMT+0900 (日本標準時)",
         "eventName": "Soccer",
         "matchUp": "日本代表vsオーストラリア代表",
-        "status": "few"
+        "status": "△：残りわわずか"
       }
     ],
-    "updatedAt": "2026-02-11T07:14:47.051Z"
+    "updatedAt": "2026-02-11T07:27:12.867Z"
   }
 ]
