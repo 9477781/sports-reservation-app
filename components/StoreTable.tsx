@@ -110,20 +110,20 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
               {language === "ja" ? "店名" : "Shop Name"}
             </th>
             {headerMatches.map((match, idx) => (
-              <th key={idx} className="bg-slate-800 text-white p-0 border-r border-white/10 min-w-[200px]">
+              <th key={idx} className="bg-slate-800 text-white p-0 border-r border-white/10 min-w-[240px]">
                 <div className="flex flex-col h-full">
-                  <div className={`p-3 text-sm font-bold border-b border-white/10 ${
+                  <div className={`p-3 text-base font-bold border-b border-white/10 ${
                     match.date.includes("Sun") || match.date.includes("Sat") || formatDate(match.date).includes("日") || formatDate(match.date).includes("土")
                       ? "bg-rose-600" : "bg-slate-700"
                   }`}>
                     {formatDate(match.date)}
                   </div>
-                  <div className="p-1.5 bg-slate-800">
-                    <span className={`text-xs px-2.5 py-0.5 rounded-full border font-extrabold uppercase tracking-wider ${getEventBadgeClass(match.sport)}`}>
+                  <div className="p-2 bg-slate-800">
+                    <span className={`text-sm px-3 py-1 rounded-full border font-black uppercase tracking-wider ${getEventBadgeClass(match.sport)}`}>
                       {match.sport}
                     </span>
                   </div>
-                  <div className="p-3 text-[13px] font-bold text-slate-100 min-h-[50px] flex flex-col items-center justify-center leading-tight text-center">
+                  <div className="p-4 text-slate-100 min-h-[80px] flex flex-col items-center justify-center leading-snug text-center">
                     {(() => {
                       const timeRegex = /(.*)[(（]([0-9:：]+)[)）]\s*$/;
                       const parts = match.match.match(timeRegex);
@@ -133,16 +133,16 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                       if (language === "ja") {
                         return (
                           <>
-                            <span className="block">{name}</span>
-                            {time && <span className="block text-orange-400 text-[11px] font-black mt-1">{time}</span>}
-                            <span className="block text-[10px] opacity-60 font-medium mt-1 uppercase tracking-wider line-clamp-1">{match.match_en}</span>
+                            <span className="block text-[17px] font-black">{name}</span>
+                            {time && <span className="block text-orange-400 text-[15px] font-black mt-1.5">{time}</span>}
+                            <span className="block text-[11px] opacity-60 font-bold mt-1.5 uppercase tracking-widest line-clamp-2">{match.match_en}</span>
                           </>
                         );
                       } else {
                         return (
                           <>
-                            <span className="block">{match.match_en}</span>
-                            {time && <span className="block text-orange-400 text-[11px] font-black mt-1">{time}</span>}
+                            <span className="block text-[18px] font-black">{match.match_en}</span>
+                            {time && <span className="block text-orange-400 text-[15px] font-black mt-1.5">{time}</span>}
                           </>
                         );
                       }
@@ -159,7 +159,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
               key={item.id} 
               className={`group transition-colors ${idx % 2 === 0 ? "bg-white" : "bg-slate-50/50"} hover:bg-orange-50/30`}
             >
-              <td className="p-5 text-sm font-bold text-slate-500 border-r border-b border-slate-200 sticky left-0 bg-inherit z-10">
+              <td className="p-5 text-[15px] font-bold text-slate-500 border-r border-b border-slate-200 sticky left-0 bg-inherit z-10">
                 {language === "ja" ? `${item.prefecture} ${item.city}` : `${item.prefecture_en.split(',')[0]}`}
               </td>
               <td className="p-5 border-r border-b border-slate-200 sticky left-36 bg-inherit z-10">
@@ -167,7 +167,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-base font-bold text-slate-900 group-hover:text-orange-600 transition-colors inline-block"
+                  className="text-lg font-black text-slate-900 group-hover:text-orange-600 transition-colors inline-block leading-tight"
                 >
                   {language === "ja" ? item.name : item.name_en}
                 </a>
@@ -184,7 +184,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                 const isStandingHidden = match.status.standing.includes("未使用") || parseStatus(match.status.standing) === "none";
 
                 return (
-                  <td key={mIdx} className="p-3 border-r border-b border-slate-200 align-middle min-w-[260px]">
+                  <td key={mIdx} className="p-3 border-r border-b border-slate-200 align-middle">
                     <div className="flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
                       {getStatusItem("table", match.status.table)}
                       {!isStandingHidden && getStatusItem("standing", match.status.standing)}
