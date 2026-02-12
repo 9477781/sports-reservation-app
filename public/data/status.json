@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:56:33.971Z",
+  "updatedAt": "2026-02-12T10:05:19.073Z",
   "data": [
     {
       "id": "5506",
@@ -144,7 +144,7 @@
           "match": "日本代表vs台湾代表",
           "match_en": "Japan vs Taiwan",
           "status": {
-            "table": "△：残りわわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
