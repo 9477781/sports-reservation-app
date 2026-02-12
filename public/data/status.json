@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T04:23:02.452Z",
+  "updatedAt": "2026-02-12T09:43:16.391Z",
   "data": [
     {
       "id": "5506",
@@ -20,7 +20,7 @@
           "match_en": "Japan vs American",
           "status": {
             "table": "〇：空きあり",
-            "standing": "〇：空きあり"
+            "standing": "未使用"
           }
         },
         {
@@ -31,7 +31,7 @@
           "match_en": "Japan vs Taiwan",
           "status": {
             "table": "△：残りわわずか",
-            "standing": "△：残りわわずか"
+            "standing": "未使用"
           }
         },
         {
@@ -42,7 +42,7 @@
           "match_en": "Japan vs South Korean",
           "status": {
             "table": "×：満席",
-            "standing": "×：満席"
+            "standing": "未使用"
           }
         },
         {
@@ -53,7 +53,7 @@
           "match_en": "Japan vs Australia",
           "status": {
             "table": "‐：未実施",
-            "standing": "‐：未実施"
+            "standing": "未使用"
           }
         }
       ]
