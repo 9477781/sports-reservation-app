@@ -63,7 +63,8 @@ const StoreCard: React.FC<StoreCardProps> = ({ data, language }) => {
           const dayStr = dayMap[dateObj.getDay()];
           const formattedDate = `${dateObj.getMonth() + 1}/${dateObj.getDate()}(${dayStr})`;
 
-          const isStandingUnused = match.status.standing.includes("未使用");
+          // スタンディングエリアが「未使用」または「未実施」の場合は表示しない
+          const isStandingHidden = match.status.standing.includes("未使用") || standingStatus.key === "none";
 
           return (
             <div key={`${match.date}-${match.match}`} className={`flex flex-col px-4 py-4 border-b border-slate-100 last:border-b-0 ${getRowBgClass(match.status.table)}`}>
@@ -81,9 +82,37 @@ const StoreCard: React.FC<StoreCardProps> = ({ data, language }) => {
                       {match.sport}
                     </span>
                   </div>
-                  <span className="text-[13px] font-bold text-slate-700 leading-tight">
-                    {language === 'ja' ? match.match : match.match_en}
-                  </span>
+                  <div className="flex flex-col">
+                    {(() => {
+                      const timeRegex = /(.*)[(（]([0-9:：]+)[)）]\s*$/;
+                      const parts = match.match.match(timeRegex);
+                      const name = parts ? parts[1].trim() : match.match;
+                      const time = parts ? parts[2].trim() : null;
+
+                      if (language === 'ja') {
+                        return (
+                          <>
+                            <span className="text-[13px] font-bold text-slate-700 leading-tight">
+                              {name}
+                            </span>
+                            {time && <span className="text-[12px] font-black text-orange-600 my-0.5">{time}</span>}
+                            <span className="text-[11px] font-medium text-slate-500 leading-tight">
+                              {match.match_en}
+                            </span>
+                          </>
+                        );
+                      } else {
+                        return (
+                          <>
+                            <span className="text-[13px] font-bold text-slate-700 leading-tight">
+                              {match.match_en}
+                            </span>
+                            {time && <span className="text-[12px] font-black text-orange-600 mt-0.5">{time}</span>}
+                          </>
+                        );
+                      }
+                    })()}
+                  </div>
                 </div>
               </div>
 
@@ -98,7 +127,7 @@ const StoreCard: React.FC<StoreCardProps> = ({ data, language }) => {
                    </span>
                  </div>
                  {/* Standing Area */}
-                 {!isStandingUnused && (
+                 {!isStandingHidden && (
                    <div className={`flex items-center gap-1.5 ${standingStatus.config.color.split(' ')[0]}`}>
                      <span className="text-slate-400 font-bold">{language === 'ja' ? 'スタンディングエリア' : 'Area'}</span>
                      <span className="text-xl leading-none shrink-0">{standingStatus.config.icon}</span>

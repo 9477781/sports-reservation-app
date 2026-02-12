@@ -20,7 +20,7 @@ const Header: React.FC<HeaderProps> = ({ language, onLanguageChange, lastUpdated
               </svg>
             </div>
             <h1 className="text-lg lg:text-2xl font-bold tracking-tight whitespace-nowrap">
-              {language === "ja" ? "スポーツ混雑状況" : "Sports Crowd Status"}
+              {language === "ja" ? "スポーツイベント混雑状況" : "Sports Event Crowd Status"}
             </h1>
           </div>
           {lastUpdated && (

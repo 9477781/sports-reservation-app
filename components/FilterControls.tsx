@@ -314,7 +314,9 @@ const FilterControls: React.FC<FilterControlsProps> = ({
               >
                 {allLabel}
               </button>
-              {(Object.keys(STATUS_MAP) as ReservationStatus[]).map((status) => (
+              {(Object.keys(STATUS_MAP) as ReservationStatus[])
+                .filter(status => status !== 'none') // スタンディングエリアの「未実施」フィルターを削除
+                .map((status) => (
                 <button
                   key={status}
                   onClick={() => onStandingStatusChange(selectedStandingStatus === status ? "ALL" : status)}

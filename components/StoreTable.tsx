@@ -123,8 +123,30 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                       {match.sport}
                     </span>
                   </div>
-                  <div className="p-3 text-[13px] font-bold text-slate-100 min-h-[50px] flex items-center justify-center leading-tight">
-                    {language === "ja" ? match.match : match.match_en}
+                  <div className="p-3 text-[13px] font-bold text-slate-100 min-h-[50px] flex flex-col items-center justify-center leading-tight text-center">
+                    {(() => {
+                      const timeRegex = /(.*)[(（]([0-9:：]+)[)）]\s*$/;
+                      const parts = match.match.match(timeRegex);
+                      const name = parts ? parts[1].trim() : match.match;
+                      const time = parts ? parts[2].trim() : null;
+
+                      if (language === "ja") {
+                        return (
+                          <>
+                            <span className="block">{name}</span>
+                            {time && <span className="block text-orange-400 text-[11px] font-black mt-1">{time}</span>}
+                            <span className="block text-[10px] opacity-60 font-medium mt-1 uppercase tracking-wider line-clamp-1">{match.match_en}</span>
+                          </>
+                        );
+                      } else {
+                        return (
+                          <>
+                            <span className="block">{match.match_en}</span>
+                            {time && <span className="block text-orange-400 text-[11px] font-black mt-1">{time}</span>}
+                          </>
+                        );
+                      }
+                    })()}
                   </div>
                 </div>
               </th>
@@ -158,12 +180,14 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                   return <td key={mIdx} className="p-3 border-r border-b border-slate-200 bg-slate-50/30"></td>;
                 }
 
-                const isStandingUnused = match.status.standing.includes("未使用");
+                // スタンディングエリアが「未使用」または「未実施」の場合は表示しない
+                const isStandingHidden = match.status.standing.includes("未使用") || parseStatus(match.status.standing) === "none";
+
                 return (
                   <td key={mIdx} className="p-3 border-r border-b border-slate-200 align-middle min-w-[260px]">
                     <div className="flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
                       {getStatusItem("table", match.status.table)}
-                      {!isStandingUnused && getStatusItem("standing", match.status.standing)}
+                      {!isStandingHidden && getStatusItem("standing", match.status.standing)}
                     </div>
                   </td>
                 );
