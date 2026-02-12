@@ -66,7 +66,7 @@ const StoreCard: React.FC<StoreCardProps> = ({ data, language }) => {
           const isStandingUnused = match.status.standing.includes("未使用");
 
           return (
-            <div key={idx} className={`flex flex-col px-4 py-4 border-b border-slate-100 last:border-b-0 ${getRowBgClass(match.status.table)}`}>
+            <div key={`${match.date}-${match.match}`} className={`flex flex-col px-4 py-4 border-b border-slate-100 last:border-b-0 ${getRowBgClass(match.status.table)}`}>
               {/* Top Row: Date and Match Info */}
               <div className="flex items-start">
                 {/* Date */}

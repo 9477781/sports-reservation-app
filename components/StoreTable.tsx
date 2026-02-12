@@ -1,5 +1,5 @@
 
-import React from "react";
+import React, { useMemo } from "react";
 import { StoreData, ReservationStatus } from "../types";
 import { STATUS_MAP, parseStatus } from "../constants";
 
@@ -11,8 +11,33 @@ interface StoreTableProps {
 const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
   if (!data || data.length === 0) return null;
 
-  // 全てのイベントの日付、イベント名、対戦カードを抽出
-  const allMatches = data[0].matches;
+  // 表示すべき「列（イベント）」のユニークなリストを作成（日付と対戦カードで識別）
+  const visibleMatchKeys = useMemo(() => {
+    const keys = new Set<string>();
+    data.forEach(store => {
+      store.matches.forEach(m => {
+        keys.add(`${m.date}_${m.match}`);
+      });
+    });
+    return Array.from(keys);
+  }, [data]);
+
+  // 列ヘッダー用のデータを構築
+  const headerMatches = useMemo(() => {
+    const matches: any[] = [];
+    const seen = new Set<string>();
+    data.forEach(store => {
+      store.matches.forEach(m => {
+        const key = `${m.date}_${m.match}`;
+        if (!seen.has(key)) {
+          matches.push(m);
+          seen.add(key);
+        }
+      });
+    });
+    // 日付順にソート
+    return matches.sort((a, b) => a.date.localeCompare(b.date));
+  }, [data]);
 
   const getEventBadgeClass = (sport: string) => {
     const name = sport.toLowerCase();
@@ -84,7 +109,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
             <th className="bg-[#f97316] text-white text-[15px] font-bold p-4 border-r border-white/20 min-w-[240px] sticky left-36 z-20">
               {language === "ja" ? "店名" : "Shop Name"}
             </th>
-            {allMatches.map((match, idx) => (
+            {headerMatches.map((match, idx) => (
               <th key={idx} className="bg-slate-800 text-white p-0 border-r border-white/10 min-w-[200px]">
                 <div className="flex flex-col h-full">
                   <div className={`p-3 text-sm font-bold border-b border-white/10 ${
@@ -125,7 +150,14 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                   {language === "ja" ? item.name : item.name_en}
                 </a>
               </td>
-              {item.matches.map((match, mIdx) => {
+              {headerMatches.map((hMatch, mIdx) => {
+                // この店舗が、ヘッダーに存在するイベントを持っているか探す
+                const match = item.matches.find(m => m.date === hMatch.date && m.match === hMatch.match);
+                
+                if (!match) {
+                  return <td key={mIdx} className="p-3 border-r border-b border-slate-200 bg-slate-50/30"></td>;
+                }
+
                 const isStandingUnused = match.status.standing.includes("未使用");
                 return (
                   <td key={mIdx} className="p-3 border-r border-b border-slate-200 align-middle min-w-[260px]">

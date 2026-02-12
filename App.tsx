@@ -26,6 +26,16 @@ const App: React.FC = () => {
   const [selectedTableStatus, setSelectedTableStatus] = useState<ReservationStatus | "ALL">("ALL");
   const [selectedStandingStatus, setSelectedStandingStatus] = useState<ReservationStatus | "ALL">("ALL");
 
+  // 補助関数: 特定のイベントがフィルターに合致するか判定
+  const isMatchFiltered = (m: any) => {
+    const dateMatch = selectedDate.length === 0 || selectedDate.includes(m.date);
+    const sportMatch = selectedSport.length === 0 || selectedSport.includes(m.sport);
+    const matchTitleMatch = selectedMatch.length === 0 || selectedMatch.includes(language === "ja" ? m.match : m.match_en);
+    const tableStatusMatch = selectedTableStatus === "ALL" || parseStatus(m.status.table) === selectedTableStatus;
+    const standingStatusMatch = selectedStandingStatus === "ALL" || parseStatus(m.status.standing) === selectedStandingStatus;
+    return dateMatch && sportMatch && matchTitleMatch && tableStatusMatch && standingStatusMatch;
+  };
+
   const fetchData = async () => {
     try {
       setLoading(true);
@@ -61,45 +71,29 @@ const App: React.FC = () => {
   const availableRegions = useMemo(() => {
     const regions = new Set<string>();
     data.forEach(item => regions.add(item.region));
-    return ["ALL", ...Array.from(regions).sort()];
+    return ["ALL", ...Array.from(regions)];
   }, [data]);
 
   const availablePrefectures = useMemo(() => {
     const prefs = new Set<string>();
-    data.forEach(item => {
-      if (selectedRegion.length === 0 || selectedRegion.includes(item.region)) {
-        prefs.add(item.prefecture);
-      }
-    });
-    return Array.from(prefs).sort();
-  }, [data, selectedRegion]);
+    data.forEach(item => prefs.add(item.prefecture));
+    return Array.from(prefs);
+  }, [data]);
 
   const availableCities = useMemo(() => {
     const cities = new Set<string>();
-    data.forEach(item => {
-      const regionMatch = selectedRegion.length === 0 || selectedRegion.includes(item.region);
-      const prefMatch = selectedPrefecture.length === 0 || selectedPrefecture.includes(item.prefecture);
-      if (regionMatch && prefMatch) {
-         cities.add(item.city);
-      }
-    });
-    return Array.from(cities).sort();
-  }, [data, selectedRegion, selectedPrefecture]);
+    data.forEach(item => cities.add(item.city));
+    return Array.from(cities);
+  }, [data]);
 
   const uniqueStoreNames = useMemo(() => {
     const names = new Set<string>();
     data.forEach((item) => {
-      const regionMatch = selectedRegion.length === 0 || selectedRegion.includes(item.region);
-      const prefMatch = selectedPrefecture.length === 0 || selectedPrefecture.includes(item.prefecture);
-      const cityMatch = selectedCity.length === 0 || selectedCity.includes(item.city);
-
-      if (regionMatch && prefMatch && cityMatch) {
-        const name = language === "ja" ? item.name : item.name_en;
-        if (name) names.add(name);
-      }
+      const name = language === "ja" ? item.name : item.name_en;
+      if (name) names.add(name);
     });
-    return Array.from(names).sort();
-  }, [data, language, selectedRegion, selectedPrefecture, selectedCity]);
+    return Array.from(names);
+  }, [data, language]);
 
   const availableDates = useMemo(() => {
     const dates = new Set<string>();
@@ -123,30 +117,29 @@ const App: React.FC = () => {
   }, [data, language]);
 
   const filteredData = useMemo(() => {
-    return data.filter((item) => {
-      const storeNameJa = item.name.toLowerCase();
-      const storeNameEn = item.name_en ? item.name_en.toLowerCase() : "";
-      const address = item.address ? item.address.toLowerCase() : "";
-      const query = searchQuery.toLowerCase();
+    return data
+      .map((item) => ({
+        ...item,
+        // 店舗内のイベントもフィルタリングする
+        matches: item.matches.filter(isMatchFiltered)
+      }))
+      .filter((item) => {
+        const storeNameJa = item.name.toLowerCase();
+        const storeNameEn = item.name_en ? item.name_en.toLowerCase() : "";
+        const address = item.address ? item.address.toLowerCase() : "";
+        const query = searchQuery.toLowerCase();
 
-      const matchesSearch = !searchQuery || storeNameJa.includes(query) || storeNameEn.includes(query) || address.includes(query);
-      const matchesRegion = selectedRegion.length === 0 || selectedRegion.includes(item.region);
-      const matchesPrefecture = selectedPrefecture.length === 0 || selectedPrefecture.includes(item.prefecture);
-      const matchesCity = selectedCity.length === 0 || selectedCity.includes(item.city);
-      const matchesStoreSelect = selectedStoreName.length === 0 || selectedStoreName.includes(language === "ja" ? item.name : item.name_en);
+        const matchesSearch = !searchQuery || storeNameJa.includes(query) || storeNameEn.includes(query) || address.includes(query);
+        const matchesRegion = selectedRegion.length === 0 || selectedRegion.includes(item.region);
+        const matchesPrefecture = selectedPrefecture.length === 0 || selectedPrefecture.includes(item.prefecture);
+        const matchesCity = selectedCity.length === 0 || selectedCity.includes(item.city);
+        const matchesStoreSelect = selectedStoreName.length === 0 || selectedStoreName.includes(language === "ja" ? item.name : item.name_en);
+        
+        // フィルタリングされた結果、1つでもイベントが残っているか、またはイベントフィルターが全く設定されていない場合
+        const hasVisibleMatches = item.matches.length > 0;
 
-      const matchesDynamic = item.matches.some(m => {
-        const dateMatch = selectedDate.length === 0 || selectedDate.includes(m.date);
-        const sportMatch = selectedSport.length === 0 || selectedSport.includes(m.sport);
-        const matchTitleMatch = selectedMatch.length === 0 || selectedMatch.includes(language === "ja" ? m.match : m.match_en);
-        const tableStatusMatch = selectedTableStatus === "ALL" || parseStatus(m.status.table) === selectedTableStatus;
-        const standingStatusMatch = selectedStandingStatus === "ALL" || parseStatus(m.status.standing) === selectedStandingStatus;
-
-        return dateMatch && sportMatch && matchTitleMatch && tableStatusMatch && standingStatusMatch;
+        return matchesSearch && matchesRegion && matchesPrefecture && matchesCity && matchesStoreSelect && hasVisibleMatches;
       });
-
-      return matchesSearch && matchesRegion && matchesPrefecture && matchesCity && matchesStoreSelect && matchesDynamic;
-    });
   }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedStoreName, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const handleReset = () => {
@@ -176,16 +169,9 @@ const App: React.FC = () => {
           searchQuery={searchQuery}
           onSearchChange={setSearchQuery}
           selectedRegion={selectedRegion}
-          onRegionChange={(val) => {
-            setSelectedRegion(val);
-            setSelectedPrefecture([]);
-            setSelectedCity([]);
-          }}
+          onRegionChange={setSelectedRegion}
           selectedPrefecture={selectedPrefecture}
-          onPrefectureChange={(val) => {
-            setSelectedPrefecture(val);
-            setSelectedCity([]);
-          }}
+          onPrefectureChange={setSelectedPrefecture}
           selectedCity={selectedCity}
           onCityChange={setSelectedCity}
           regions={availableRegions}

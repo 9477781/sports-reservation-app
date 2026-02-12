@@ -90,9 +90,9 @@ const MultiSelect: React.FC<{
                 type="checkbox"
                 checked={selectedValues.includes(opt)}
                 onChange={() => toggleOption(opt)}
-                className="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500"
+                className="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500 shrink-0"
               />
-              <span className="text-sm font-medium text-slate-700 whitespace-nowrap overflow-hidden text-ellipsis">
+              <span className="text-sm font-medium text-slate-700 whitespace-normal leading-tight">
                 {formatOption ? formatOption(opt) : opt}
               </span>
             </label>
@@ -162,8 +162,8 @@ const FilterControls: React.FC<FilterControlsProps> = ({
 
   return (
     <div className="space-y-4 mb-8 px-4">
-      {/* 検索・地域・都道府県・市区町村 */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
+      {/* 検索・地域・都道府県・市区町村・店舗・リセット */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-3">
         <div className="flex gap-2 w-full">
           <div className="relative flex-grow">
             <input
@@ -192,11 +192,7 @@ const FilterControls: React.FC<FilterControlsProps> = ({
           label={language === "ja" ? "エリア" : "Region"}
           options={regions}
           selectedValues={selectedRegion}
-          onChange={(vals) => {
-            onRegionChange(vals);
-            onPrefectureChange([]);
-            onCityChange([]);
-          }}
+          onChange={onRegionChange}
           formatOption={translate}
         />
 
@@ -204,12 +200,8 @@ const FilterControls: React.FC<FilterControlsProps> = ({
           label={language === "ja" ? "都道府県" : "Prefecture"}
           options={prefectures}
           selectedValues={selectedPrefecture}
-          onChange={(vals) => {
-            onPrefectureChange(vals);
-            onCityChange([]);
-          }}
+          onChange={onPrefectureChange}
           formatOption={translate}
-          disabled={selectedRegion.length === 0 && regions.length > 1}
         />
 
         <MultiSelect
@@ -218,15 +210,21 @@ const FilterControls: React.FC<FilterControlsProps> = ({
           selectedValues={selectedCity}
           onChange={onCityChange}
           formatOption={translate}
-          disabled={selectedPrefecture.length === 0 && prefectures.length > 1}
+        />
+
+        <MultiSelect
+          label={language === "ja" ? "店舗選択" : "Store Name"}
+          options={storeNames}
+          selectedValues={selectedStoreName}
+          onChange={onStoreNameChange}
         />
 
         {/* PC Reset Button */}
         <button
           onClick={onReset}
-          className="hidden lg:flex items-center justify-center gap-2 w-full py-2.5 bg-slate-800 hover:bg-slate-900 text-white rounded-lg text-sm font-black transition-all shadow-md active:scale-95"
+          className="hidden lg:flex items-center justify-center gap-2 w-full py-2 bg-slate-800 hover:bg-slate-900 text-white rounded-lg text-xs font-bold transition-all shadow-md active:scale-95"
         >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
           </svg>
           {language === "ja" ? "条件をリセット" : "Reset Filters"}
