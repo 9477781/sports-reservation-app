@@ -1,13 +1,13 @@
-# Project: Sports Hub - Real-time Reservation Dashboard
+# Project: Sports Hub - Real-time Status Dashboard
 
 ## 概要
 
-100店舗以上のスポーツ放映時の予約状況を確認できるWebアプリケーション。
+100店舗以上のスポーツ放映時の混雑状況を確認できるWebアプリケーション。
 Googleスプレッドシートをマスターデータとして管理し、GASを用いてJSONデータを生成・GitHubへプッシュすることで、Vercel上のアプリケーションにデータを反映させる仕組み。
 
 ## アーキテクチャ
 
-1.  **データソース**: Google Spreadsheets (シート名: `予約状況`)
+1.  **データソース**: Google Spreadsheets (シート名: `混雑状況`)
 2.  **データ連携 (ETL)**: Google Apps Script (GAS)
     - スプレッドシートのデータを読み取り。
     - JSONフォーマットに変換。
@@ -31,6 +31,8 @@ Googleスプレッドシートをマスターデータとして管理し、GAS�
 - [x] 日英切り替え機能・UI最適化の実装完了
 - [x] GASスクリプトの作成・ GitHub連携機能の統合完了
 - [x] Vercelへのデプロイ成功・初期公開完了
+- [x] ローカル開発環境の適正化 (index.css欠落修正、データバリデーション追加)
+- [x] npm run dev による表示確認完了 (http://localhost:3000)
 
 ## 今後の課題・拡張案
 

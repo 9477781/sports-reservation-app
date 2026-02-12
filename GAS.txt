@@ -1,6 +1,6 @@
 /**
  * ==============================================================================
- * スポーツ放映予約状況 リアルタイム反映システム - GAS 連携スクリプト
+ * スポーツ放映混雑状況 リアルタイム反映システム - GAS 連携スクリプト
  * ==============================================================================
  * 
  * 【設定手順】
@@ -8,15 +8,15 @@
  * 2. プロジェクトの設定（歯車アイコン）>「スクリプトプロパティ」に以下を追加。
  *    - GITHUB_TOKEN : GitHubのPersonal Access Token
  *    - GITHUB_REPO  : あなたのリポジトリ名 (例: user/my-sports-app)
- * 3. スプレッドシートのシート名を「予約状況」に変更。
+ * 3. スプレッドシートのシート名を「混雑状況」に変更。
  * 4. 実行トリガーを「exportSportsStatusToJson」に設定（ボタンへの割り当て、または時間指定）。
  */
 
 function exportSportsStatusToJson() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
-  const sheet = ss.getSheetByName("予約状況"); 
+  const sheet = ss.getSheetByName("混雑状況"); 
   if (!sheet) {
-    throw new Error("「予約状況」という名前のシートが見つかりません。");
+    throw new Error("「混雑状況」という名前のシートが見つかりません。");
   }
 
   const fullData = sheet.getDataRange().getValues();
@@ -47,7 +47,7 @@ function exportSportsStatusToJson() {
       address: String(row[4]),    // E列: 住所
       region: String(row[5]),     // F列: リージョン
       prefecture: String(row[6]),  // G列: 都道府県
-      prefecture_en: "Tokyo",     // 固定またはデータから取得
+      prefecture_en: String(row[6]), // 都道府県名を流用
       city: String(row[7]),       // H列: 市区町村
     };
 
@@ -124,7 +124,7 @@ function pushToGitHub(content) {
 
   // 2. PUTリクエストでファイルを更新
   const payload = {
-    message: "Update sports reservation status from Google Sheets",
+    message: "Update sports crowd status from Google Sheets",
     content: Utilities.base64Encode(content, Utilities.Charset.UTF_8),
     branch: branch
   };
