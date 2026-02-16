@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T02:38:52.754Z",
+  "updatedAt": "2026-02-16T02:40:41.622Z",
   "data": [
     {
       "id": "5506",
@@ -16,8 +16,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -27,8 +27,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -38,8 +38,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -49,8 +49,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -73,8 +73,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -84,8 +84,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -95,8 +95,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "×：満席",
             "standing": "未使用"
@@ -106,8 +106,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -130,8 +130,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -141,8 +141,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -152,8 +152,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "×：満席"
@@ -163,8 +163,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -187,8 +187,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -198,8 +198,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -209,8 +209,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -220,8 +220,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -244,8 +244,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -255,8 +255,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -266,8 +266,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -277,8 +277,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -301,8 +301,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -312,8 +312,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -323,8 +323,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -334,8 +334,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -358,8 +358,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -369,8 +369,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -380,8 +380,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -391,8 +391,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -415,8 +415,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -426,8 +426,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -437,8 +437,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -448,8 +448,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -472,8 +472,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -483,8 +483,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -494,8 +494,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -505,8 +505,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -529,8 +529,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -540,8 +540,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -551,8 +551,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -562,8 +562,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -586,8 +586,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -597,8 +597,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -608,8 +608,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -619,8 +619,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -643,8 +643,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -654,8 +654,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -665,8 +665,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -676,8 +676,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -700,8 +700,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -711,8 +711,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -722,8 +722,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -733,8 +733,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -757,8 +757,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -768,8 +768,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -779,8 +779,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -790,8 +790,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -814,8 +814,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -825,8 +825,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -836,8 +836,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -847,8 +847,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -871,8 +871,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -882,8 +882,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -893,8 +893,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -904,8 +904,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -928,8 +928,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -939,8 +939,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -950,8 +950,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -961,8 +961,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -985,8 +985,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -996,8 +996,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1007,8 +1007,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1018,8 +1018,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1042,8 +1042,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1053,8 +1053,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1064,8 +1064,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1075,8 +1075,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1099,8 +1099,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1110,8 +1110,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1121,8 +1121,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1132,8 +1132,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1156,8 +1156,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1167,8 +1167,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1178,8 +1178,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1189,8 +1189,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1213,8 +1213,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1224,8 +1224,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1235,8 +1235,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1246,8 +1246,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1270,8 +1270,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1281,8 +1281,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1292,8 +1292,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1303,8 +1303,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1327,8 +1327,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1338,8 +1338,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1349,8 +1349,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1360,8 +1360,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1384,8 +1384,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1395,8 +1395,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1406,8 +1406,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1417,8 +1417,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1441,8 +1441,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1452,8 +1452,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1463,8 +1463,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1474,8 +1474,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1498,8 +1498,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1509,8 +1509,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1520,8 +1520,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1531,8 +1531,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1555,8 +1555,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1566,8 +1566,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1577,8 +1577,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1588,8 +1588,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1612,8 +1612,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1623,8 +1623,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1634,8 +1634,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1645,8 +1645,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1669,8 +1669,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1680,8 +1680,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1691,8 +1691,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1702,8 +1702,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1726,8 +1726,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1737,8 +1737,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1748,8 +1748,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1759,8 +1759,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1783,8 +1783,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1794,8 +1794,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1805,8 +1805,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1816,8 +1816,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1840,8 +1840,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1851,8 +1851,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1862,8 +1862,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1873,8 +1873,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1897,8 +1897,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1908,8 +1908,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1919,8 +1919,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1930,8 +1930,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1954,8 +1954,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1965,8 +1965,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1976,8 +1976,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1987,8 +1987,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2011,8 +2011,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2022,8 +2022,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2033,8 +2033,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2044,8 +2044,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2068,8 +2068,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2079,8 +2079,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2090,8 +2090,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2101,8 +2101,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2125,8 +2125,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2136,8 +2136,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2147,8 +2147,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2158,8 +2158,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2182,8 +2182,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2193,8 +2193,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2204,8 +2204,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2215,8 +2215,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2239,8 +2239,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2250,8 +2250,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2261,8 +2261,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2272,8 +2272,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2296,8 +2296,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2307,8 +2307,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2318,8 +2318,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2329,8 +2329,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2353,8 +2353,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2364,8 +2364,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2375,8 +2375,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2386,8 +2386,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2410,8 +2410,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2421,8 +2421,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2432,8 +2432,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2443,8 +2443,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2467,8 +2467,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2478,8 +2478,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2489,8 +2489,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2500,8 +2500,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2524,8 +2524,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2535,8 +2535,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2546,8 +2546,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2557,8 +2557,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2581,8 +2581,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2592,8 +2592,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2603,8 +2603,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2614,8 +2614,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2638,8 +2638,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2649,8 +2649,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2660,8 +2660,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2671,8 +2671,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2695,8 +2695,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2706,8 +2706,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2717,8 +2717,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2728,8 +2728,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2752,8 +2752,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2763,8 +2763,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2774,8 +2774,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2785,8 +2785,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2809,8 +2809,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2820,8 +2820,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2831,8 +2831,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2842,8 +2842,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2866,8 +2866,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2877,8 +2877,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2888,8 +2888,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2899,8 +2899,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2923,8 +2923,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2934,8 +2934,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2945,8 +2945,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2956,8 +2956,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2980,8 +2980,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2991,8 +2991,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3002,8 +3002,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3013,8 +3013,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3037,8 +3037,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3048,8 +3048,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3059,8 +3059,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3070,8 +3070,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3094,8 +3094,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3105,8 +3105,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3116,8 +3116,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3127,8 +3127,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3151,8 +3151,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3162,8 +3162,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3173,8 +3173,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3184,8 +3184,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3208,8 +3208,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3219,8 +3219,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3230,8 +3230,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3241,8 +3241,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3265,8 +3265,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3276,8 +3276,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3287,8 +3287,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3298,8 +3298,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3322,8 +3322,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3333,8 +3333,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3344,8 +3344,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3355,8 +3355,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3379,8 +3379,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3390,8 +3390,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3401,8 +3401,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3412,8 +3412,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3436,8 +3436,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3447,8 +3447,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3458,8 +3458,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3469,8 +3469,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3493,8 +3493,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3504,8 +3504,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3515,8 +3515,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3526,8 +3526,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3550,8 +3550,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3561,8 +3561,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3572,8 +3572,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3583,8 +3583,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3607,8 +3607,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3618,8 +3618,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3629,8 +3629,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3640,8 +3640,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3664,8 +3664,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3675,8 +3675,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3686,8 +3686,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3697,8 +3697,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3721,8 +3721,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3732,8 +3732,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3743,8 +3743,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3754,8 +3754,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3778,8 +3778,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3789,8 +3789,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3800,8 +3800,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3811,8 +3811,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3835,8 +3835,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3846,8 +3846,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3857,8 +3857,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3868,8 +3868,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3892,8 +3892,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3903,8 +3903,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3914,8 +3914,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3925,8 +3925,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3949,8 +3949,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3960,8 +3960,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3971,8 +3971,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3982,8 +3982,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4006,8 +4006,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4017,8 +4017,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4028,8 +4028,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4039,8 +4039,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4063,8 +4063,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4074,8 +4074,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4085,8 +4085,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4096,8 +4096,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4120,8 +4120,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4131,8 +4131,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4142,8 +4142,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4153,8 +4153,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4177,8 +4177,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4188,8 +4188,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4199,8 +4199,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4210,8 +4210,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4234,8 +4234,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4245,8 +4245,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4256,8 +4256,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4267,8 +4267,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4291,8 +4291,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4302,8 +4302,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4313,8 +4313,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4324,8 +4324,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4348,8 +4348,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4359,8 +4359,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4370,8 +4370,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4381,8 +4381,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4405,8 +4405,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4416,8 +4416,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4427,8 +4427,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4438,8 +4438,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4462,8 +4462,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4473,8 +4473,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4484,8 +4484,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4495,8 +4495,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4519,8 +4519,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4530,8 +4530,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4541,8 +4541,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4552,8 +4552,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4576,8 +4576,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4587,8 +4587,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4598,8 +4598,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4609,8 +4609,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4633,8 +4633,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4644,8 +4644,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4655,8 +4655,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4666,8 +4666,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4690,8 +4690,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4701,8 +4701,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4712,8 +4712,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4723,8 +4723,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4747,8 +4747,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4758,8 +4758,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4769,8 +4769,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4780,8 +4780,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4804,8 +4804,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4815,8 +4815,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4826,8 +4826,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4837,8 +4837,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4861,8 +4861,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4872,8 +4872,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4883,8 +4883,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4894,8 +4894,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4918,8 +4918,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4929,8 +4929,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4940,8 +4940,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4951,8 +4951,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4975,8 +4975,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4986,8 +4986,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4997,8 +4997,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5008,8 +5008,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5032,8 +5032,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5043,8 +5043,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5054,8 +5054,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5065,8 +5065,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5089,8 +5089,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5100,8 +5100,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5111,8 +5111,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5122,8 +5122,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5146,8 +5146,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5157,8 +5157,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5168,8 +5168,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5179,8 +5179,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5203,8 +5203,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5214,8 +5214,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5225,8 +5225,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5236,8 +5236,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5260,8 +5260,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5271,8 +5271,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5282,8 +5282,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5293,8 +5293,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5317,8 +5317,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5328,8 +5328,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5339,8 +5339,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5350,8 +5350,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5374,8 +5374,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5385,8 +5385,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5396,8 +5396,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5407,8 +5407,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5431,8 +5431,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5442,8 +5442,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5453,8 +5453,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5464,8 +5464,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5488,8 +5488,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5499,8 +5499,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5510,8 +5510,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5521,8 +5521,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5545,8 +5545,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5556,8 +5556,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5567,8 +5567,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5578,8 +5578,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5602,8 +5602,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5613,8 +5613,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5624,8 +5624,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5635,8 +5635,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5659,8 +5659,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5670,8 +5670,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5681,8 +5681,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5692,8 +5692,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5716,8 +5716,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5727,8 +5727,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5738,8 +5738,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5749,8 +5749,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5773,8 +5773,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5784,8 +5784,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5795,8 +5795,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5806,8 +5806,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5830,8 +5830,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5841,8 +5841,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5852,8 +5852,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5863,8 +5863,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5887,8 +5887,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5898,8 +5898,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5909,8 +5909,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5920,8 +5920,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5944,8 +5944,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5955,8 +5955,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5966,8 +5966,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5977,8 +5977,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6001,8 +6001,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6012,8 +6012,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6023,8 +6023,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6034,8 +6034,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6058,8 +6058,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6069,8 +6069,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6080,8 +6080,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6091,8 +6091,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6115,8 +6115,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6126,8 +6126,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6137,8 +6137,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6148,8 +6148,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6172,8 +6172,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6183,8 +6183,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6194,8 +6194,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6205,8 +6205,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6229,8 +6229,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6240,8 +6240,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6251,8 +6251,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6262,8 +6262,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6286,8 +6286,8 @@
           "date": "2026-03-01",
           "display_date": "2026-02-28T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表VSアメリカ代表（13:00）",
-          "match_en": "Japan vs American",
+          "match": "日本VSアメリカ（13:00）",
+          "match_en": "Japan vs  America (13:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6297,8 +6297,8 @@
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "日本代表vs台湾代表（19:30）",
-          "match_en": "Japan vs Taiwan",
+          "match": "日本vs台湾（19:30）",
+          "match_en": "Japan vs Taiwan (19:30)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6308,8 +6308,8 @@
           "date": "2026-03-05",
           "display_date": "2026-03-04T15:00:00.000Z",
           "sport": "Sports Event",
-          "match": "日本代表vs韓国代表（21:00）",
-          "match_en": "Japan vs South Korean",
+          "match": "日本vs韓国（21:00）",
+          "match_en": "Japan vs South Korea (21:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6319,8 +6319,8 @@
           "date": "2026-03-10",
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Soccer",
-          "match": "ニュージーランド代表vsオーストラリア代表（27:00）",
-          "match_en": "Japan vs Australia",
+          "match": "ニュージーランドvsオーストラリア（27:00）",
+          "match_en": "New Zealand vs Australia (27:00)",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
