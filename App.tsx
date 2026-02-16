@@ -26,14 +26,60 @@ const App: React.FC = () => {
   const [selectedTableStatus, setSelectedTableStatus] = useState<ReservationStatus | "ALL">("ALL");
   const [selectedStandingStatus, setSelectedStandingStatus] = useState<ReservationStatus | "ALL">("ALL");
 
-  // 補助関数: 特定のイベントがフィルターに合致するか判定
-  const isMatchFiltered = (m: any) => {
-    const dateMatch = selectedDate.length === 0 || selectedDate.includes(m.date);
-    const sportMatch = selectedSport.length === 0 || selectedSport.includes(m.sport);
-    const matchTitleMatch = selectedMatch.length === 0 || selectedMatch.includes(language === "ja" ? m.match : m.match_en);
-    const tableStatusMatch = selectedTableStatus === "ALL" || parseStatus(m.status.table) === selectedTableStatus;
-    const standingStatusMatch = selectedStandingStatus === "ALL" || parseStatus(m.status.standing) === selectedStandingStatus;
-    return dateMatch && sportMatch && matchTitleMatch && tableStatusMatch && standingStatusMatch;
+  // 補助関数: 時間情報を抽出してソート用の文字列を作成
+  const getMatchSortKey = (m: any) => {
+    const timeRegex = /[(（]([0-9:：]+)[)）]\s*$/;
+    const parts = m.match.match(timeRegex);
+    const time = parts ? parts[1].replace('：', ':').padStart(5, '0') : "99:99";
+    return `${m.date} ${time}`;
+  };
+
+  // 補助関数: 指定したフィルターを除外してデータをフィルタリングする（選択肢算出用）
+  const getFilteredOptionsData = (excludeField?: string) => {
+    return data.filter((item) => {
+      // 検索クエリ
+      if (searchQuery && !excludeField?.includes("search")) {
+        const query = searchQuery.toLowerCase();
+        const matchSearch = item.name.toLowerCase().includes(query) || 
+                          (item.name_en?.toLowerCase().includes(query)) || 
+                          item.address?.toLowerCase().includes(query);
+        if (!matchSearch) return false;
+      }
+
+      // エリア
+      if (selectedRegion.length > 0 && excludeField !== "region") {
+        if (!selectedRegion.includes(item.region)) return false;
+      }
+
+      // 都道府県
+      if (selectedPrefecture.length > 0 && excludeField !== "prefecture") {
+        if (!selectedPrefecture.includes(item.prefecture)) return false;
+      }
+
+      // 市区町村
+      if (selectedCity.length > 0 && excludeField !== "city") {
+        if (!selectedCity.includes(item.city)) return false;
+      }
+
+      // 店舗名
+      if (selectedStoreName.length > 0 && excludeField !== "storeName") {
+        const name = language === "ja" ? item.name : item.name_en;
+        if (!selectedStoreName.includes(name)) return false;
+      }
+
+      // イベント系（日付・競技・カード・ステータス）
+      const hasMatchingMatch = item.matches.some(m => {
+        const dateM = (selectedDate.length === 0 || excludeField === "date" || selectedDate.includes(m.date));
+        const sportM = (selectedSport.length === 0 || excludeField === "sport" || selectedSport.includes(m.sport));
+        const matchTitleM = (selectedMatch.length === 0 || excludeField === "match" || selectedMatch.includes(language === "ja" ? m.match : m.match_en));
+        const tableM = (selectedTableStatus === "ALL" || excludeField === "tableStatus" || parseStatus(m.status.table) === selectedTableStatus);
+        const standingM = (selectedStandingStatus === "ALL" || excludeField === "standingStatus" || parseStatus(m.status.standing) === selectedStandingStatus);
+        
+        return dateM && sportM && matchTitleM && tableM && standingM;
+      });
+
+      return hasMatchingMatch;
+    });
   };
 
   const fetchData = async () => {
@@ -55,6 +101,17 @@ const App: React.FC = () => {
     }
   };
 
+  // 補助関数: イベントが現在のフィルター条件に一致するか判定
+  const isMatchFiltered = (m: any) => {
+    const dateM = (selectedDate.length === 0 || selectedDate.includes(m.date));
+    const sportM = (selectedSport.length === 0 || selectedSport.includes(m.sport));
+    const matchTitleM = (selectedMatch.length === 0 || selectedMatch.includes(language === "ja" ? m.match : m.match_en));
+    const tableM = (selectedTableStatus === "ALL" || parseStatus(m.status.table) === selectedTableStatus);
+    const standingM = (selectedStandingStatus === "ALL" || parseStatus(m.status.standing) === selectedStandingStatus);
+    
+    return dateM && sportM && matchTitleM && tableM && standingM;
+  };
+
   useEffect(() => {
     fetchData();
 
@@ -67,78 +124,108 @@ const App: React.FC = () => {
     return () => window.removeEventListener('resize', checkMobile);
   }, []);
 
-  // Filter Options
+  // Filter Options (各項目間で連動させる)
   const availableRegions = useMemo(() => {
-    const regions = new Set<string>();
-    data.forEach(item => regions.add(item.region));
-    return ["ALL", ...Array.from(regions)];
-  }, [data]);
+    const options = new Set<string>();
+    getFilteredOptionsData("region").forEach(item => options.add(item.region));
+    return Array.from(options);
+  }, [data, searchQuery, selectedPrefecture, selectedCity, selectedStoreName, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const availablePrefectures = useMemo(() => {
-    const prefs = new Set<string>();
-    data.forEach(item => prefs.add(item.prefecture));
-    return Array.from(prefs);
-  }, [data]);
+    const options = new Set<string>();
+    getFilteredOptionsData("prefecture").forEach(item => options.add(item.prefecture));
+    return Array.from(options);
+  }, [data, searchQuery, selectedRegion, selectedCity, selectedStoreName, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const availableCities = useMemo(() => {
-    const cities = new Set<string>();
-    data.forEach(item => cities.add(item.city));
-    return Array.from(cities);
-  }, [data]);
+    const options = new Set<string>();
+    getFilteredOptionsData("city").forEach(item => options.add(item.city));
+    return Array.from(options);
+  }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedStoreName, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const uniqueStoreNames = useMemo(() => {
-    const names = new Set<string>();
-    data.forEach((item) => {
+    const options = new Set<string>();
+    getFilteredOptionsData("storeName").forEach((item) => {
       const name = language === "ja" ? item.name : item.name_en;
-      if (name) names.add(name);
+      if (name) options.add(name);
     });
-    return Array.from(names);
-  }, [data, language]);
+    return Array.from(options);
+  }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const availableDates = useMemo(() => {
-    const dates = new Set<string>();
-    data.forEach(item => item.matches.forEach(m => dates.add(m.date)));
-    return Array.from(dates).sort();
-  }, [data]);
+    const options = new Set<string>();
+    getFilteredOptionsData("date").forEach(item => {
+      item.matches.forEach(m => options.add(m.date));
+    });
+    return Array.from(options).sort();
+  }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedStoreName, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const availableSports = useMemo(() => {
-    const sports = new Set<string>();
-    data.forEach(item => item.matches.forEach(m => sports.add(m.sport)));
-    return Array.from(sports).sort();
-  }, [data]);
+    const options = new Set<string>();
+    getFilteredOptionsData("sport").forEach(item => {
+      item.matches.forEach(m => options.add(m.sport));
+    });
+    return Array.from(options).sort();
+  }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedStoreName, selectedDate, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 
   const availableMatches = useMemo(() => {
-    const matchTitles = new Set<string>();
-    data.forEach(item => item.matches.forEach(m => {
-      const title = language === "ja" ? m.match : m.match_en;
-      if (title) matchTitles.add(title);
-    }));
-    return Array.from(matchTitles).sort();
-  }, [data, language]);
+    const matchMap = new Map<string, string>(); // title -> sortKey (date + time)
+
+    getFilteredOptionsData("match").forEach(item => {
+      item.matches.forEach(m => {
+        const title = language === "ja" ? m.match : m.match_en;
+        if (title) {
+          const sortKey = getMatchSortKey(m);
+          const currentMin = matchMap.get(title);
+          // 同名のカードがある場合、最も早い日時のものをソート基準とする
+          if (!currentMin || sortKey < currentMin) {
+            matchMap.set(title, sortKey);
+          }
+        }
+      });
+    });
+
+    // 日時（sortKey）でソートしてからタイトルのみを抽出
+    return Array.from(matchMap.entries())
+      .sort((a, b) => a[1].localeCompare(b[1]))
+      .map(entry => entry[0]);
+  }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedStoreName, selectedDate, selectedSport, selectedTableStatus, selectedStandingStatus, language]);
 
   const filteredData = useMemo(() => {
+    const isAnyEventFilterSet = selectedDate.length > 0 || selectedSport.length > 0 || selectedMatch.length > 0 || selectedTableStatus !== "ALL" || selectedStandingStatus !== "ALL";
+
     return data
-      .map((item) => ({
-        ...item,
-        // 店舗内のイベントもフィルタリングする
-        matches: item.matches.filter(isMatchFiltered)
-      }))
+      .map((item) => {
+        // 店舗内のイベントをフィルタリングし、日付・時間順にソートする
+        const sortedMatches = [...item.matches]
+          .filter(m => isMatchFiltered(m))
+          .sort((a, b) => getMatchSortKey(a).localeCompare(getMatchSortKey(b)));
+
+        return { ...item, matches: sortedMatches };
+      })
       .filter((item) => {
-        const storeNameJa = item.name.toLowerCase();
-        const storeNameEn = item.name_en ? item.name_en.toLowerCase() : "";
-        const address = item.address ? item.address.toLowerCase() : "";
-        const query = searchQuery.toLowerCase();
+        // 検索クエリ
+        if (searchQuery) {
+          const query = searchQuery.toLowerCase();
+          const matchSearch = item.name.toLowerCase().includes(query) || 
+                            (item.name_en?.toLowerCase().includes(query)) || 
+                            item.address?.toLowerCase().includes(query);
+          if (!matchSearch) return false;
+        }
 
-        const matchesSearch = !searchQuery || storeNameJa.includes(query) || storeNameEn.includes(query) || address.includes(query);
-        const matchesRegion = selectedRegion.length === 0 || selectedRegion.includes(item.region);
-        const matchesPrefecture = selectedPrefecture.length === 0 || selectedPrefecture.includes(item.prefecture);
-        const matchesCity = selectedCity.length === 0 || selectedCity.includes(item.city);
-        const matchesStoreSelect = selectedStoreName.length === 0 || selectedStoreName.includes(language === "ja" ? item.name : item.name_en);
+        // 地域フィルター
+        if (selectedRegion.length > 0 && !selectedRegion.includes(item.region)) return false;
+        if (selectedPrefecture.length > 0 && !selectedPrefecture.includes(item.prefecture)) return false;
+        if (selectedCity.length > 0 && !selectedCity.includes(item.city)) return false;
         
-        // フィルタリングされた結果、1つでもイベントが残っているか、またはイベントフィルターが全く設定されていない場合
-        const hasVisibleMatches = item.matches.length > 0;
+        // 店舗名選択
+        if (selectedStoreName.length > 0) {
+          const name = language === "ja" ? item.name : item.name_en;
+          if (!selectedStoreName.includes(name)) return false;
+        }
 
-        return matchesSearch && matchesRegion && matchesPrefecture && matchesCity && matchesStoreSelect && hasVisibleMatches;
+        // 該当するイベントが一つでもあるか
+        return item.matches.length > 0;
       });
   }, [data, searchQuery, selectedRegion, selectedPrefecture, selectedCity, selectedStoreName, selectedDate, selectedSport, selectedMatch, selectedTableStatus, selectedStandingStatus, language]);
 

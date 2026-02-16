@@ -26,6 +26,15 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
   const headerMatches = useMemo(() => {
     const matches: any[] = [];
     const seen = new Set<string>();
+    
+    // ヘッダー用の並び替え文字列生成関数
+    const getSortKey = (m: any) => {
+      const timeRegex = /[(（]([0-9:：]+)[)）]\s*$/;
+      const parts = m.match.match(timeRegex);
+      const time = parts ? parts[1].replace('：', ':').padStart(5, '0') : "99:99";
+      return `${m.date} ${time}`;
+    };
+
     data.forEach(store => {
       store.matches.forEach(m => {
         const key = `${m.date}_${m.match}`;
@@ -35,8 +44,9 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
         }
       });
     });
-    // 日付順にソート
-    return matches.sort((a, b) => a.date.localeCompare(b.date));
+
+    // 日付と時間の両方でソート
+    return matches.sort((a, b) => getSortKey(a).localeCompare(getSortKey(b)));
   }, [data]);
 
   const getEventBadgeClass = (sport: string) => {
