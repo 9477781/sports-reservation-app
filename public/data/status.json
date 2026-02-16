@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T06:24:37.940Z",
+  "updatedAt": "2026-02-16T06:26:31.215Z",
   "data": [
     {
       "id": "5506",
@@ -1003,7 +1003,7 @@
           "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
-            "table": "△：残りわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
@@ -1014,7 +1014,7 @@
           "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
-            "table": "△：残りわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
@@ -1025,7 +1025,7 @@
           "match": "日本vs中日（19:00）",
           "match_en": "Japan vs Chunichi",
           "status": {
-            "table": "△：残りわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
@@ -1036,7 +1036,7 @@
           "match": "日本vs中日（19:00）",
           "match_en": "Japan vs Chunichi",
           "status": {
-            "table": "△：残りわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
@@ -1047,7 +1047,7 @@
           "match": "日本vsオリックス（19:00）",
           "match_en": "Japan vs Orix",
           "status": {
-            "table": "△：残りわずか",
+            "table": "‐：未実施",
             "standing": "未使用"
           }
         },
