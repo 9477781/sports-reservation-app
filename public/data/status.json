@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T03:03:38.058Z",
+  "updatedAt": "2026-02-16T03:28:39.789Z",
   "data": [
     {
       "id": "5506",
@@ -12,17 +12,6 @@
       "name_en": "HUB Shinjuku south branch",
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -70,17 +59,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -126,17 +104,6 @@
       "name_en": "82 Shinjuku-Sanchome branch",
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -184,17 +151,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -240,17 +196,6 @@
       "name_en": "HUB Shinjuku Kuyakusho st. branch",
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -298,17 +243,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -354,17 +288,6 @@
       "name_en": "HUB Shinjuku Yasukuni st. branch",
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -412,17 +335,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -468,17 +380,6 @@
       "name_en": "HUB Asakusa branch",
       "prefecture_en": "Taito-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -526,17 +427,6 @@
       "prefecture_en": "Taito-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -582,17 +472,6 @@
       "name_en": "HUB Kita-Senju branch",
       "prefecture_en": "Adachi-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -640,17 +519,6 @@
       "prefecture_en": "Chuo-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -696,17 +564,6 @@
       "name_en": "HUB Ueno Showa st. branch",
       "prefecture_en": "Taito-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -754,17 +611,6 @@
       "prefecture_en": "Taito-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -810,17 +656,6 @@
       "name_en": "HUB Ginza branch",
       "prefecture_en": "Chuo-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -868,17 +703,6 @@
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -924,17 +748,6 @@
       "name_en": "82 Mita branch",
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -982,17 +795,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1038,17 +840,6 @@
       "name_en": "HUB Shimbashi branch",
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1096,17 +887,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1152,17 +932,6 @@
       "name_en": "HUB Hamamatsucho branch",
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1210,17 +979,6 @@
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1266,17 +1024,6 @@
       "name_en": "82 Akasaka branch",
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1324,17 +1071,6 @@
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1380,17 +1116,6 @@
       "name_en": "HUB Shibuya Dogenzaka branch",
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1438,17 +1163,6 @@
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1494,17 +1208,6 @@
       "name_en": "HUB ShibuyaⅢ branch",
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1552,17 +1255,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1608,17 +1300,6 @@
       "name_en": "HUB Akihabara branch",
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1666,17 +1347,6 @@
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1722,17 +1392,6 @@
       "name_en": "HUB Lotte City Hotel Kinshicho branch",
       "prefecture_en": "Sumida-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1780,17 +1439,6 @@
       "prefecture_en": "Sumida-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1836,17 +1484,6 @@
       "name_en": "HUB chomp chomp AKIHABARA branch",
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -1894,17 +1531,6 @@
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -1950,17 +1576,6 @@
       "name_en": "HUB Tokyo Dome City LaQua branch",
       "prefecture_en": "Bunkyo-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2008,17 +1623,6 @@
       "prefecture_en": "Chuo-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2064,17 +1668,6 @@
       "name_en": "82 Higashi-ginza branch",
       "prefecture_en": "Chuo-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2122,17 +1715,6 @@
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2178,17 +1760,6 @@
       "name_en": "HUB Yotsuya Shimmichi st. branch",
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2236,17 +1807,6 @@
       "prefecture_en": "Chiyoda-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2292,17 +1852,6 @@
       "name_en": "HUB Ikebukuro east branch",
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2350,17 +1899,6 @@
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2406,17 +1944,6 @@
       "name_en": "HUB Ikebukuro east branch annex",
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2464,17 +1991,6 @@
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2520,17 +2036,6 @@
       "name_en": "HUB Ikebukuro Sunshine st. branch",
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2578,17 +2083,6 @@
       "prefecture_en": "Toshima-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2634,17 +2128,6 @@
       "name_en": "HUB Shibuya Center-Gai branch",
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2692,17 +2175,6 @@
       "prefecture_en": "Saitama-shi, Saitama",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2748,17 +2220,6 @@
       "name_en": "HUB Sendai Nakakecho branch",
       "prefecture_en": "Sendai-shi, Miyagi",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2806,17 +2267,6 @@
       "prefecture_en": "Sendai-shi, Miyagi",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2862,17 +2312,6 @@
       "name_en": "HUB Kawaguchi branch",
       "prefecture_en": "Kawaguchi-shi, Saitama",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -2920,17 +2359,6 @@
       "prefecture_en": "Niigata-shi, Niigata",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -2976,17 +2404,6 @@
       "name_en": "HUB Toyama MAROOT Branch",
       "prefecture_en": "Toyama-shi, Toyama",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3034,17 +2451,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3090,17 +2496,6 @@
       "name_en": "HUB Machida branch",
       "prefecture_en": "Machida-shi, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3148,17 +2543,6 @@
       "prefecture_en": "Ota-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3204,17 +2588,6 @@
       "name_en": "HUB Sagamiono branch",
       "prefecture_en": "Sagamihara-shi, Kanagawa",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3262,17 +2635,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3318,17 +2680,6 @@
       "name_en": "HUB Haneda Airport Terminal 2 branch",
       "prefecture_en": "Ota-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3376,17 +2727,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3432,17 +2772,6 @@
       "name_en": "HUB Kichijoji south branch",
       "prefecture_en": "Musashino-shi, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3490,17 +2819,6 @@
       "prefecture_en": "Hachioji-shi, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3546,17 +2864,6 @@
       "name_en": "HUB Tokorozawa Prope st.branch",
       "prefecture_en": "Tokorozawa-shi, Saitama",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3604,17 +2911,6 @@
       "prefecture_en": "Shinjuku-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3660,17 +2956,6 @@
       "name_en": "82 Kannai branch",
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3718,17 +3003,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3774,17 +3048,6 @@
       "name_en": "HUB Yokohama west branch",
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3832,17 +3095,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -3888,17 +3140,6 @@
       "name_en": "HUB Fujisawa branch",
       "prefecture_en": "Fujisawa-shi, Kanagawa",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -3946,17 +3187,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4002,17 +3232,6 @@
       "name_en": "HUB Shin-urayasu branch",
       "prefecture_en": "Urayasu-shi, Chiba",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4060,17 +3279,6 @@
       "prefecture_en": "Kashiwa-shi, Chiba",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4116,17 +3324,6 @@
       "name_en": "HUB Chiba Fujimi branch",
       "prefecture_en": "Chiba-shi, Chiba",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4174,17 +3371,6 @@
       "prefecture_en": "Funabashi-shi, Chiba",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4230,17 +3416,6 @@
       "name_en": "HUB Kaihinmakuhari branch",
       "prefecture_en": "Chiba-shi, Chiba",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4288,17 +3463,6 @@
       "prefecture_en": "Funabashi-shi, Chiba",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4344,17 +3508,6 @@
       "name_en": "HUB JEF UNITED PUB Perie Chiba Ekinaka branch",
       "prefecture_en": "Chiba-shi, Chiba",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4402,17 +3555,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4458,17 +3600,6 @@
       "name_en": "HUB Ebisu branch",
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4516,17 +3647,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4572,17 +3692,6 @@
       "name_en": "HUB Yoyogi west branch",
       "prefecture_en": "Shibuya-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4630,17 +3739,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4686,17 +3784,6 @@
       "name_en": "82 Gotanda west branch",
       "prefecture_en": "Shinagawa-ku, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4744,17 +3831,6 @@
       "prefecture_en": "Minato-ku, Tokyo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4800,17 +3876,6 @@
       "name_en": "HUB Tachikawa south branch",
       "prefecture_en": "Tachikawa-shi, Tokyo",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4858,17 +3923,6 @@
       "prefecture_en": "Yokohama-shi, Kanagawa",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -4914,17 +3968,6 @@
       "name_en": "HUB Kawasaki branch",
       "prefecture_en": "Kawasaki-shi, Kanagawa",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -4972,17 +4015,6 @@
       "prefecture_en": "Kobe-shi, Hyogo",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5028,17 +4060,6 @@
       "name_en": "HUB Namba Ebisubashi branch",
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5086,17 +4107,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5142,17 +4152,6 @@
       "name_en": "HUB Abeno Q'sMall branch",
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5200,17 +4199,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5256,17 +4244,6 @@
       "name_en": "HUB AMU PLAZA MIYAZAKI branch",
       "prefecture_en": "Miyazaki-shi, Miyazaki",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5314,17 +4291,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5370,17 +4336,6 @@
       "name_en": "HUB Keihankyobashi branch",
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5428,17 +4383,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5484,17 +4428,6 @@
       "name_en": "HUB Higashi-Umeda branch",
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5542,17 +4475,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5598,17 +4520,6 @@
       "name_en": "HUB LINKS UMEDA branch",
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5656,17 +4567,6 @@
       "prefecture_en": "Osaka-shi, Osaka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5712,17 +4612,6 @@
       "name_en": "HUB Shijokarasuma branch",
       "prefecture_en": "Kyoto-shi, Kyoto",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5770,17 +4659,6 @@
       "prefecture_en": "Nagoya-shi, Aichi",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5826,17 +4704,6 @@
       "name_en": "HUB Meieki branch",
       "prefecture_en": "Nagoya-shi, Aichi",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5884,17 +4751,6 @@
       "prefecture_en": "Kyoto-shi, Kyoto",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -5940,17 +4796,6 @@
       "name_en": "HUB Meieki-Yonchome branch",
       "prefecture_en": "Nagoya-shi, Aichi",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -5998,17 +4843,6 @@
       "prefecture_en": "Kyoto-shi, Kyoto",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -6054,17 +4888,6 @@
       "name_en": "HUB GRAMPUS PUB MIRAI TOWER branch",
       "prefecture_en": "Nagoya-shi, Aichi",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -6112,17 +4935,6 @@
       "prefecture_en": "Sapporo-shi, Hokkaido",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -6168,17 +4980,6 @@
       "name_en": "HUB MIZUHO PayPay Dome FUKUOKA branch",
       "prefecture_en": "Fukuoka-shi, Fukuoka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
@@ -6226,17 +5027,6 @@
       "prefecture_en": "Fukuoka-shi, Fukuoka",
       "matches": [
         {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
-        {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
           "sport": "Soccer",
@@ -6282,17 +5072,6 @@
       "name_en": "HUB HAKATA ChikushiGate DEITOS ANNEX branch",
       "prefecture_en": "Fukuoka-shi, Fukuoka",
       "matches": [
-        {
-          "date": "2026-03-01",
-          "display_date": "2026-02-28T15:00:00.000Z",
-          "sport": "Sports Event",
-          "match": "日本VSアメリカ（13:00）",
-          "match_en": "Japan vs  America",
-          "status": {
-            "table": "△：残りわずか",
-            "standing": "未使用"
-          }
-        },
         {
           "date": "2026-03-03",
           "display_date": "2026-03-02T15:00:00.000Z",
