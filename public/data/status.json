@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T06:15:44.507Z",
+  "updatedAt": "2026-02-16T06:24:37.940Z",
   "data": [
     {
       "id": "5506",
@@ -27,7 +27,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -39,7 +39,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -61,7 +61,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -83,7 +83,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -116,7 +116,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -150,7 +150,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -162,7 +162,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "×：満席",
             "standing": "未使用"
@@ -184,7 +184,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -206,7 +206,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "×：満席",
             "standing": "未使用"
@@ -239,7 +239,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -273,7 +273,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -285,7 +285,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "×：満席"
@@ -307,7 +307,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -329,7 +329,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "×：満席"
@@ -362,7 +362,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -396,7 +396,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -408,7 +408,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -430,7 +430,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -452,7 +452,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -485,7 +485,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -519,7 +519,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -531,7 +531,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "△：残りわずか"
@@ -553,7 +553,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -575,7 +575,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "△：残りわずか"
@@ -608,7 +608,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "×：満席"
@@ -642,7 +642,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -654,7 +654,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -676,7 +676,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -698,7 +698,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -731,7 +731,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -765,7 +765,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "×：満席",
@@ -777,7 +777,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -799,7 +799,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -821,7 +821,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -854,7 +854,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -888,7 +888,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -900,7 +900,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -922,7 +922,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -944,7 +944,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -977,7 +977,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1011,7 +1011,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1023,7 +1023,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1045,7 +1045,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1067,7 +1067,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1100,7 +1100,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1134,7 +1134,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1146,7 +1146,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1168,7 +1168,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1190,7 +1190,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1223,7 +1223,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1257,7 +1257,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1269,7 +1269,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1291,7 +1291,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1313,7 +1313,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1346,7 +1346,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1380,7 +1380,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1392,7 +1392,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1414,7 +1414,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1436,7 +1436,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1469,7 +1469,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1503,7 +1503,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1515,7 +1515,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1537,7 +1537,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1559,7 +1559,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1592,7 +1592,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1626,7 +1626,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1638,7 +1638,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1660,7 +1660,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1682,7 +1682,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1715,7 +1715,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1749,7 +1749,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1761,7 +1761,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1783,7 +1783,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1805,7 +1805,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1838,7 +1838,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1872,7 +1872,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -1884,7 +1884,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1906,7 +1906,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1928,7 +1928,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1961,7 +1961,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -1995,7 +1995,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2007,7 +2007,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2029,7 +2029,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2051,7 +2051,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2084,7 +2084,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2118,7 +2118,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2130,7 +2130,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2152,7 +2152,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2174,7 +2174,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2207,7 +2207,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2241,7 +2241,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2253,7 +2253,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2275,7 +2275,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2297,7 +2297,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2330,7 +2330,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2364,7 +2364,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2376,7 +2376,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2398,7 +2398,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2420,7 +2420,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2453,7 +2453,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2487,7 +2487,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2499,7 +2499,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2521,7 +2521,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2543,7 +2543,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2576,7 +2576,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2610,7 +2610,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2622,7 +2622,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2644,7 +2644,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2666,7 +2666,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2699,7 +2699,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2733,7 +2733,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2745,7 +2745,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2767,7 +2767,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2789,7 +2789,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2822,7 +2822,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2856,7 +2856,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2868,7 +2868,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2890,7 +2890,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2912,7 +2912,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2945,7 +2945,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -2979,7 +2979,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -2991,7 +2991,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3013,7 +3013,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3035,7 +3035,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3068,7 +3068,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3102,7 +3102,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3114,7 +3114,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3136,7 +3136,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3158,7 +3158,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3191,7 +3191,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3225,7 +3225,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3237,7 +3237,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3259,7 +3259,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3281,7 +3281,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3314,7 +3314,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3348,7 +3348,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3360,7 +3360,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3382,7 +3382,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3404,7 +3404,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3437,7 +3437,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3471,7 +3471,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3483,7 +3483,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3505,7 +3505,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3527,7 +3527,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3560,7 +3560,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3594,7 +3594,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3606,7 +3606,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3628,7 +3628,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3650,7 +3650,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3683,7 +3683,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3717,7 +3717,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3729,7 +3729,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3751,7 +3751,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3773,7 +3773,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3806,7 +3806,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3840,7 +3840,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3852,7 +3852,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3874,7 +3874,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3896,7 +3896,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3929,7 +3929,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3963,7 +3963,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -3975,7 +3975,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -3997,7 +3997,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4019,7 +4019,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4052,7 +4052,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4086,7 +4086,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4098,7 +4098,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4120,7 +4120,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4142,7 +4142,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4175,7 +4175,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4209,7 +4209,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4221,7 +4221,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4243,7 +4243,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4265,7 +4265,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4298,7 +4298,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4332,7 +4332,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4344,7 +4344,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4366,7 +4366,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4388,7 +4388,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4421,7 +4421,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4455,7 +4455,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4467,7 +4467,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4489,7 +4489,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4511,7 +4511,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4544,7 +4544,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4578,7 +4578,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4590,7 +4590,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4612,7 +4612,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4634,7 +4634,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4667,7 +4667,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4701,7 +4701,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4713,7 +4713,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4735,7 +4735,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4757,7 +4757,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4790,7 +4790,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4824,7 +4824,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4836,7 +4836,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4858,7 +4858,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4880,7 +4880,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4913,7 +4913,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4947,7 +4947,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -4959,7 +4959,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -4981,7 +4981,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5003,7 +5003,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5036,7 +5036,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5070,7 +5070,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5082,7 +5082,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5104,7 +5104,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5126,7 +5126,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5159,7 +5159,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5193,7 +5193,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5205,7 +5205,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5227,7 +5227,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5249,7 +5249,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5282,7 +5282,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5316,7 +5316,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5328,7 +5328,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5350,7 +5350,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5372,7 +5372,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5405,7 +5405,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5439,7 +5439,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5451,7 +5451,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5473,7 +5473,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5495,7 +5495,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5528,7 +5528,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5562,7 +5562,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5574,7 +5574,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5596,7 +5596,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5618,7 +5618,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5651,7 +5651,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5685,7 +5685,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5697,7 +5697,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5719,7 +5719,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5741,7 +5741,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5774,7 +5774,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5808,7 +5808,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5820,7 +5820,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5842,7 +5842,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5864,7 +5864,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5897,7 +5897,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5931,7 +5931,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -5943,7 +5943,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5965,7 +5965,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -5987,7 +5987,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6020,7 +6020,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6054,7 +6054,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6066,7 +6066,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6088,7 +6088,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6110,7 +6110,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6143,7 +6143,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6177,7 +6177,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6189,7 +6189,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6211,7 +6211,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6233,7 +6233,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6266,7 +6266,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6300,7 +6300,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6312,7 +6312,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6334,7 +6334,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6356,7 +6356,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6389,7 +6389,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6423,7 +6423,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6435,7 +6435,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6457,7 +6457,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6479,7 +6479,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6512,7 +6512,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6546,7 +6546,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6558,7 +6558,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6580,7 +6580,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6602,7 +6602,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6635,7 +6635,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6669,7 +6669,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6681,7 +6681,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6703,7 +6703,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6725,7 +6725,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6758,7 +6758,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6792,7 +6792,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6804,7 +6804,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6826,7 +6826,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6848,7 +6848,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6881,7 +6881,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6915,7 +6915,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -6927,7 +6927,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6949,7 +6949,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -6971,7 +6971,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7004,7 +7004,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7038,7 +7038,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7050,7 +7050,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7072,7 +7072,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7094,7 +7094,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7127,7 +7127,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7161,7 +7161,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7173,7 +7173,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7195,7 +7195,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7217,7 +7217,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7250,7 +7250,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7284,7 +7284,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7296,7 +7296,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7318,7 +7318,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7340,7 +7340,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7373,7 +7373,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7407,7 +7407,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7419,7 +7419,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7441,7 +7441,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7463,7 +7463,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7496,7 +7496,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7530,7 +7530,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7542,7 +7542,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7564,7 +7564,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7586,7 +7586,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7619,7 +7619,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7653,7 +7653,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7665,7 +7665,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7687,7 +7687,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7709,7 +7709,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7742,7 +7742,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7776,7 +7776,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7788,7 +7788,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7810,7 +7810,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7832,7 +7832,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7865,7 +7865,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7899,7 +7899,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -7911,7 +7911,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7933,7 +7933,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7955,7 +7955,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -7988,7 +7988,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8022,7 +8022,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8034,7 +8034,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8056,7 +8056,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8078,7 +8078,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8111,7 +8111,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8145,7 +8145,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8157,7 +8157,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8179,7 +8179,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8201,7 +8201,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8234,7 +8234,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8268,7 +8268,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8280,7 +8280,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8302,7 +8302,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8324,7 +8324,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8357,7 +8357,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8391,7 +8391,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8403,7 +8403,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8425,7 +8425,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8447,7 +8447,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8480,7 +8480,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8514,7 +8514,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8526,7 +8526,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8548,7 +8548,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8570,7 +8570,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8603,7 +8603,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8637,7 +8637,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8649,7 +8649,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8671,7 +8671,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8693,7 +8693,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8726,7 +8726,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8760,7 +8760,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8772,7 +8772,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8794,7 +8794,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8816,7 +8816,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8849,7 +8849,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8883,7 +8883,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -8895,7 +8895,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8917,7 +8917,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8939,7 +8939,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -8972,7 +8972,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9006,7 +9006,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9018,7 +9018,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9040,7 +9040,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9062,7 +9062,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9095,7 +9095,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9129,7 +9129,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9141,7 +9141,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9163,7 +9163,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9185,7 +9185,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9218,7 +9218,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9252,7 +9252,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9264,7 +9264,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9286,7 +9286,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9308,7 +9308,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9341,7 +9341,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9375,7 +9375,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9387,7 +9387,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9409,7 +9409,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9431,7 +9431,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9464,7 +9464,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9498,7 +9498,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9510,7 +9510,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9532,7 +9532,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9554,7 +9554,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9587,7 +9587,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9621,7 +9621,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9633,7 +9633,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9655,7 +9655,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9677,7 +9677,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9710,7 +9710,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9744,7 +9744,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9756,7 +9756,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9778,7 +9778,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9800,7 +9800,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9833,7 +9833,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9867,7 +9867,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -9879,7 +9879,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9901,7 +9901,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9923,7 +9923,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9956,7 +9956,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -9990,7 +9990,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10002,7 +10002,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10024,7 +10024,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10046,7 +10046,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10079,7 +10079,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10113,7 +10113,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10125,7 +10125,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10147,7 +10147,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10169,7 +10169,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10202,7 +10202,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10236,7 +10236,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10248,7 +10248,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10270,7 +10270,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10292,7 +10292,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10325,7 +10325,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10359,7 +10359,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10371,7 +10371,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10393,7 +10393,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10415,7 +10415,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10448,7 +10448,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10482,7 +10482,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10494,7 +10494,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10516,7 +10516,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10538,7 +10538,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10571,7 +10571,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10605,7 +10605,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10617,7 +10617,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10639,7 +10639,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10661,7 +10661,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10694,7 +10694,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10728,7 +10728,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10740,7 +10740,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10762,7 +10762,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10784,7 +10784,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10817,7 +10817,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10851,7 +10851,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10863,7 +10863,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10885,7 +10885,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10907,7 +10907,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10940,7 +10940,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -10974,7 +10974,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -10986,7 +10986,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11008,7 +11008,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11030,7 +11030,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11063,7 +11063,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11097,7 +11097,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11109,7 +11109,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11131,7 +11131,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11153,7 +11153,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11186,7 +11186,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11220,7 +11220,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11232,7 +11232,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11254,7 +11254,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11276,7 +11276,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11309,7 +11309,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11343,7 +11343,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11355,7 +11355,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11377,7 +11377,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11399,7 +11399,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11432,7 +11432,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11466,7 +11466,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11478,7 +11478,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11500,7 +11500,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11522,7 +11522,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11555,7 +11555,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11589,7 +11589,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11601,7 +11601,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11623,7 +11623,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11645,7 +11645,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11678,7 +11678,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11712,7 +11712,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11724,7 +11724,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11746,7 +11746,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11768,7 +11768,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11801,7 +11801,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11835,7 +11835,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11847,7 +11847,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11869,7 +11869,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11891,7 +11891,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11924,7 +11924,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11958,7 +11958,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -11970,7 +11970,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -11992,7 +11992,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12014,7 +12014,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12047,7 +12047,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12081,7 +12081,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12093,7 +12093,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12115,7 +12115,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12137,7 +12137,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12170,7 +12170,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12204,7 +12204,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12216,7 +12216,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12238,7 +12238,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12260,7 +12260,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12293,7 +12293,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12327,7 +12327,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12339,7 +12339,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12361,7 +12361,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12383,7 +12383,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12416,7 +12416,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12450,7 +12450,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12462,7 +12462,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12484,7 +12484,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12506,7 +12506,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12539,7 +12539,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12573,7 +12573,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12585,7 +12585,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12607,7 +12607,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12629,7 +12629,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12662,7 +12662,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12696,7 +12696,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12708,7 +12708,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12730,7 +12730,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12752,7 +12752,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12785,7 +12785,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12819,7 +12819,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12831,7 +12831,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12853,7 +12853,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12875,7 +12875,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12908,7 +12908,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12942,7 +12942,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -12954,7 +12954,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12976,7 +12976,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -12998,7 +12998,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13031,7 +13031,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13065,7 +13065,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -13077,7 +13077,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13099,7 +13099,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13121,7 +13121,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13154,7 +13154,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13188,7 +13188,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -13200,7 +13200,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13222,7 +13222,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13244,7 +13244,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13277,7 +13277,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13311,7 +13311,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -13323,7 +13323,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13345,7 +13345,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13367,7 +13367,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13400,7 +13400,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13434,7 +13434,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -13446,7 +13446,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13468,7 +13468,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13490,7 +13490,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13523,7 +13523,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13557,7 +13557,7 @@
           "date": "2026-02-23",
           "display_date": "2026-02-22T15:00:00.000Z",
           "sport": "Baseball",
-          "match": "日本vsソフトバンク（1:00）",
+          "match": "日本vsソフトバンク（13:00）",
           "match_en": "Japan vs SoftBank",
           "status": {
             "table": "△：残りわずか",
@@ -13569,7 +13569,7 @@
           "display_date": "2026-02-26T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vs中日（19:00）",
-          "match_en": "Japan vs Chunichi ",
+          "match_en": "Japan vs Chunichi",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13591,7 +13591,7 @@
           "display_date": "2026-03-01T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsオリックス（19:00）",
-          "match_en": "Japan vs. Orix",
+          "match_en": "Japan vs Orix",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13613,7 +13613,7 @@
           "display_date": "2026-03-05T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチャイニーズ・タイペイ（19:00）",
-          "match_en": "Japan vs. Chinese Taipei",
+          "match_en": "Japan vs Chinese Taipei",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
@@ -13646,7 +13646,7 @@
           "display_date": "2026-03-09T15:00:00.000Z",
           "sport": "Baseball",
           "match": "日本vsチェコ（19:00）",
-          "match_en": "Japan vs Czech Republic ",
+          "match_en": "Japan vs Czech Republic",
           "status": {
             "table": "△：残りわずか",
             "standing": "未使用"
