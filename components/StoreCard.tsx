@@ -117,25 +117,33 @@ const StoreCard: React.FC<StoreCardProps> = ({ data, language }) => {
               </div>
 
               {/* Bottom Row: Status Indicator (One line underneath) */}
-              <div className="w-full mt-3 pt-2 border-t border-slate-50 flex items-center justify-start gap-4 text-[10px] font-black overflow-hidden">
-                 {/* Table */}
-                 <div className={`flex items-center gap-1.5 ${tableStatus.config.color.split(' ')[0]}`}>
-                   <span className="text-slate-400 font-bold">{language === 'ja' ? 'テーブル' : 'Table'}</span>
-                   <span className="text-xl leading-none shrink-0">{tableStatus.config.icon}</span>
-                   <span className="whitespace-nowrap">
-                     {language === 'ja' ? tableStatus.config.label : tableStatus.key.charAt(0).toUpperCase() + tableStatus.key.slice(1)}
-                   </span>
-                 </div>
-                 {/* Standing Area */}
-                 {!isStandingHidden && (
-                   <div className={`flex items-center gap-1.5 ${standingStatus.config.color.split(' ')[0]}`}>
-                     <span className="text-slate-400 font-bold">{language === 'ja' ? 'スタンディングエリア' : 'Area'}</span>
-                     <span className="text-xl leading-none shrink-0">{standingStatus.config.icon}</span>
-                     <span className="whitespace-nowrap">
-                       {language === 'ja' ? standingStatus.config.label : standingStatus.key.charAt(0).toUpperCase() + standingStatus.key.slice(1)}
-                     </span>
-                   </div>
-                 )}
+              <div className="w-full mt-3 pt-2 border-t border-slate-50 flex items-center justify-start gap-4 text-[10px] font-black overflow-hidden min-h-[40px]">
+                {tableStatus.key === "none" ? (
+                  <div className="w-full flex items-center justify-center text-slate-300 py-1 text-sm tracking-widest font-bold">
+                    {language === 'ja' ? '未実施' : 'NONE'}
+                  </div>
+                ) : (
+                  <>
+                    {/* Table */}
+                    <div className={`flex items-center gap-1.5 ${tableStatus.config.color.split(' ')[0]}`}>
+                      <span className="text-slate-400 font-bold">{language === 'ja' ? 'テーブル' : 'Table'}</span>
+                      <span className="text-xl leading-none shrink-0">{tableStatus.config.icon}</span>
+                      <span className="whitespace-nowrap">
+                        {language === 'ja' ? tableStatus.config.label : tableStatus.key.charAt(0).toUpperCase() + tableStatus.key.slice(1)}
+                      </span>
+                    </div>
+                    {/* Standing Area */}
+                    {!isStandingHidden && (
+                      <div className={`flex items-center gap-1.5 ${standingStatus.config.color.split(' ')[0]}`}>
+                        <span className="text-slate-400 font-bold">{language === 'ja' ? 'スタンディングエリア' : 'Area'}</span>
+                        <span className="text-xl leading-none shrink-0">{standingStatus.config.icon}</span>
+                        <span className="whitespace-nowrap">
+                          {language === 'ja' ? standingStatus.config.label : standingStatus.key.charAt(0).toUpperCase() + standingStatus.key.slice(1)}
+                        </span>
+                      </div>
+                    )}
+                  </>
+                )}
               </div>
             </div>
           );

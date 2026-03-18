@@ -226,14 +226,21 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
                     return <td key={mIdx} className={`p-3 border-r border-b border-slate-200 bg-slate-50/30 w-[300px] min-w-[300px] max-w-[300px] ${idx % 2 === 0 ? "bg-white" : "bg-[#fcfdfe]"}`}></td>;
                   }
 
+                  const isTableNone = parseStatus(match.status.table) === "none";
                   const isStandingHidden = match.status.standing.includes("未使用") || parseStatus(match.status.standing) === "none";
 
                   return (
                     <td key={mIdx} className={`p-3 border-r border-b border-slate-200 align-middle w-[300px] min-w-[300px] max-w-[300px] ${idx % 2 === 0 ? "bg-white" : "bg-[#fcfdfe]"}`}>
-                      <div className="flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
-                        {getStatusItem("table", match.status.table)}
-                        {!isStandingHidden && getStatusItem("standing", match.status.standing)}
-                      </div>
+                      {isTableNone ? (
+                        <div className="flex items-center justify-center text-slate-300 font-black text-lg py-2">
+                          {language === "ja" ? "未実施" : "None"}
+                        </div>
+                      ) : (
+                        <div className="flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-2">
+                          {getStatusItem("table", match.status.table)}
+                          {!isStandingHidden && getStatusItem("standing", match.status.standing)}
+                        </div>
+                      )}
                     </td>
                   );
                 })}
