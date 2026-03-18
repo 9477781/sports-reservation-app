@@ -109,7 +109,7 @@ const StoreTable: React.FC<StoreTableProps> = ({ data, language }) => {
   };
 
   return (
-    <div className="overflow-auto max-w-full rounded-xl border border-slate-200">
+    <div className="overflow-auto max-w-full max-h-[800px] rounded-xl border border-slate-200 shadow-sm relative">
       <table className="border-separate border-spacing-0 table-fixed w-max min-w-full bg-white">
         <thead>
           <tr className="h-[210px]">

@@ -309,9 +309,7 @@ const App: React.FC = () => {
               ))}
             </div>
           ) : (
-            <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-              <StoreTable data={filteredData} language={language} />
-            </div>
+            <StoreTable data={filteredData} language={language} />
           )
         ) : (
           <div className="py-20 text-center bg-white rounded-xl shadow-sm border border-slate-200 text-slate-400 font-medium">
